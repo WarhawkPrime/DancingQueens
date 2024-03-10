@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "eab4c09f09106791",
+    "type": "split",
+    "children": [
+      {
+        "id": "c677cfe628078669",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "116d911ef705fc5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2de7b04e73d85ef2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ecdaee6f0829a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e24a65033c72026",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6f3296fc8eb844d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00a178cef36a5339",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e64f43ca22797ad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7d9a231083750a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df11342c80ea1ef0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca44bf481cbf81da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bc7951a9d06a170",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c4eb8fba3ce8645",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9e24a65033c72026",
+  "lastOpenFiles": [
+    "Mitschrift/S2 14.12.2023 Luftschiffverhandlungen.md",
+    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
+    "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
+    "Mitschrift/S1 30.11.2023 The Beginning.md"
+  ]
+}

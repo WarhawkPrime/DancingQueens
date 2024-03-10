@@ -1,0 +1,2 @@
+- Hedenolit. Kristallin, effekt der Doppelbrechung. recht start, ähnlich wie Kalzit. Stabiler als Kalzit. Affin für Magie. Gut um es zu verzaubern. Geeignet für Illusionszauber oder ähnlichen. Magische Hologramme. Natürlicher Stein.
+- geklaut von [[Kapitän Skeates]]

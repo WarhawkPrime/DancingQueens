@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "ec9f85fc3ba91c98",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef18d122b50ecac0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1524629e4adf78a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Amandus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d48195d47482153",
+    "type": "split",
+    "children": [
+      {
+        "id": "056bc05a5bb89ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "726ce7ac4ee17dbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2ed7d5891e7ff26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df92e43420a6bf9c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af88942d310fff3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e328bd1ccdcbeac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d6799a3ad174bb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Amandus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec6d4523491c2653",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Amandus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "165b182ff748c77f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bbd5f36fab05d76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Amandus.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1524629e4adf78a6",
+  "lastOpenFiles": []
+}

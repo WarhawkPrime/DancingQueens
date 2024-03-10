@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "805b93df458f8beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b41d1ca34612613",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eaaa72ab0cdef4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die dritte Hand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a7db4a041b1b072",
+    "type": "split",
+    "children": [
+      {
+        "id": "d58adb9277c20d46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c08637f20bdca6e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c59ed1e1be74a8b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84d4426940added2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0b2ee7a75e741f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9760a6461a999ade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d446e6d44758d15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die dritte Hand.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9acb68eb75e6950",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die dritte Hand.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c1e6e50604e07a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1273d1aa57061848",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die dritte Hand.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6eaaa72ab0cdef4b",
+  "lastOpenFiles": [
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Drest.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/darshana.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die dritte Hand.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Chike Vossen.md"
+  ]
+}

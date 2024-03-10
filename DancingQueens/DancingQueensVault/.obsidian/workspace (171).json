@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "08db2ffe0e6aeba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5cb845f0b394360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2310be731ec74e9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mitschrift/S8 10.03.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc3ad1f5bb86bb8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "12737f7279d613e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beb173ff22acc46a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5ae271e3ac28cf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11d74df23830c884",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c8f83134356230b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8273001106ed2fad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae758545f1184b88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mitschrift/S8 10.03.2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "753ced8653329c40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mitschrift/S8 10.03.2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ec9f1093661f8a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "113bdc4b868115a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mitschrift/S8 10.03.2024.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2310be731ec74e9f",
+  "lastOpenFiles": [
+    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
+    "Mitschrift/S8 10.03.2024.md",
+    "Mitschrift/Zeitstrahl.canvas",
+    "NPCs/Kultisten- Das Siegel/Das Siegel.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Organigramm Phantom.canvas",
+    "Pictures/Lilya.png",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Marelli.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Lilya.md",
+    "Pictures/Drest.png",
+    "NPCs/Die 12 Piratenkapitäne/Der Rat der 12.md",
+    "NPCs/Die Luftallianz/Die Luftallianz.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Terell.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die dritte Hand.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Chike Vossen.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Amandus.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew der Zwillinge/Vardan.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew der Zwillinge/Die Zwillinge.md",
+    "Mitschrift/S2 14.12.2023 Luftschiffverhandlungen.md",
+    "Mitschrift/S1 30.11.2023 The Beginning.md",
+    "Götter/Selune.md",
+    "Götter/Mel.md",
+    "Götter/Aulian.md",
+    "Gegenstände/Symbol der Kultisten.md",
+    "Gegenstände/Hedenolit.md",
+    "DancingQueens/Orte/Phantoms Schiffe/Mels Schatten.md"
+  ]
+}

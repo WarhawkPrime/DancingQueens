@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "7e12b3aea8e20b3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff2066f4e7fae5c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ba1f893d12b642e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Theorien/Theories.canvas",
+                "viewState": {
+                  "x": -150,
+                  "y": 9.5,
+                  "zoom": -0.14116054735802414
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "103c1dcafeab1bff",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca61b01f60107808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c3bf92daf94a72c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "629e6cafd4686f05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffa556f597fb1538",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c15f3bd8f4c376f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5586bdbfd029a5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "839fe2eb9aaa92df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theorien/Theories.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dba3aeb03334115d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Theorien/Theories.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cffd7283c1ae33e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d2832a739d36f75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Theorien/Theories.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ba1f893d12b642e",
+  "lastOpenFiles": []
+}

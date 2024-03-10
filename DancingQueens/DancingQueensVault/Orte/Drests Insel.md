@@ -1,0 +1,3 @@
+- Durch die Insel ist ein Turm, so als wäre er wie ein Speer durch die Insel gezogen. Um den Turm sind kleinere Gebäude, wie Farmhäuser/Familienhäuser. Felder, See, Landesteeg für ein Luftschiff.
+- Wohnort von [[Drest]]
+- 

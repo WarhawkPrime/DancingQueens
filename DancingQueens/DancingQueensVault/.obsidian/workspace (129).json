@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "df64f124390d6098",
+    "type": "split",
+    "children": [
+      {
+        "id": "7581867c621c0c88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73ab09ae5137ff5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97e69be4e54c9c38",
+    "type": "split",
+    "children": [
+      {
+        "id": "7321d135c24d4ace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66bf36f131efe7bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "575cc70ecf4600c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe2cfcc925a4aa76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c574aa9a481b78e",
+    "type": "split",
+    "children": [
+      {
+        "id": "37aed7ba845c6d36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1695ae58902ffb22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dffb0721f92a3c18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "beb56f0719fadadf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ab5bfa1bbb50e66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mitschrift/S7 25.02.2024 Der erste Auftrag.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "73ab09ae5137ff5e",
+  "lastOpenFiles": [
+    "Gegenstände/Symbol der Kultisten.md",
+    "Gegenstände/Hedenolit.md",
+    "DancingQueens/Orte/Phantoms Schiffe/Mels Schatten.md",
+    "Orte/zepletor.md",
+    "Orte/Xela.md",
+    "Orte/lycroes.md",
+    "Party/Tuk Greengrass.md",
+    "Party/Nhelavyss.md",
+    "Party/Kena.md",
+    "Party/Orfeo callis.md",
+    "Theorien/Siegel.canvas"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "368371b9f118705e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0598c9990d4ff631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53c41acd16a3e731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/Nhelavyss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "166143cc04337507",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae1a9ce936aeb8d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c9ef74c7017ad63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc4bffdb502de032",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "680ec561a4979a8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5e81afa3af612f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "299f8a81221de550",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fa67c857d3e3881",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Party/Nhelavyss.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23bfac330a277ddf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Party/Nhelavyss.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46ea878d44451b0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74144923744391d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Party/Nhelavyss.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "53c41acd16a3e731",
+  "lastOpenFiles": [
+    "Party/Orfeo callis.md",
+    "Party/Nhelavyss.md",
+    "Party/Tuk Greengrass.md",
+    "Pictures/symbol.jpg",
+    "Party/Kena.md"
+  ]
+}

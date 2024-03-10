@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "74a54fd4d753e64f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a179441731cfcac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "184fd0a77cf5f94f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Götter/Aulian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aba2b2825bc6ad28",
+    "type": "split",
+    "children": [
+      {
+        "id": "51eee5ab06b650ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52cf7c79f84003bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "132d9d34edcd00d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a37668d3488e0e57",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50bd1179977181ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "422e6cb0ee963df5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "889c90fa91fe47e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Götter/Aulian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5642b6892c326840",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Götter/Aulian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47228f19654b4d9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5eeb848c9976fe1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Götter/Aulian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "184fd0a77cf5f94f",
+  "lastOpenFiles": [
+    "Götter/Mel.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Varvara.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Tress.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Linke Hand des Phantoms.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Terell.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Phantom.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Sanjeev.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/drusar.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Chike Vossen.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/darshana.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Nardo.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Anselm.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Kapitän Skeates.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Melete.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Hader.md"
+  ]
+}

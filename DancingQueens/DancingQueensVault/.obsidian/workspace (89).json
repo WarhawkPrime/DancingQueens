@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "197c75d61de9317e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4c04ed9d843699",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a66196fc6cec1ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ff34bf7e5aa9084",
+    "type": "split",
+    "children": [
+      {
+        "id": "629dfba164f8d30b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38f10a60e5057629",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "489eb9553320735a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d4fb3b1b42aa5bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02b7c4334cba77dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "85cc9c8fbd86870d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c7982cf8056b427",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f6aab6c83f65b38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b86433d7e5ac711f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f38d8fbdeaac251",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9a66196fc6cec1ca",
+  "lastOpenFiles": []
+}

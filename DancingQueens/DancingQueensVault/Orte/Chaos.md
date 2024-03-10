@@ -1,0 +1,1 @@
+- Zitat von [[Varvara]]: Wenn man den void besucht kann man es (im Sinne von den Fluss des Chaos) lernen. Der void ist zwischen den Ebenen. Kleber der das universum zusammenhält. Ursprung von allen. Fließt durch alles durch. Alles was geendet hat. 

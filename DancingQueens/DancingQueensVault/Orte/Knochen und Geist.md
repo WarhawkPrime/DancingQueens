@@ -1,0 +1,3 @@
+- eine Art fliegende Taverne mit der Möglichkeit für Schiffe zum andocken
+- überträgt mithilfe von Radio ihre Position
+- das letzte mal gesichtet auf dem Weg zu [[Drests Insel]]

@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "548d8eef3ed305e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2485d815f938f02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c48168ad918a1d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/Nhelavyss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5238256303c438c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "83b4193eb22074c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef949f7633f08994",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a2041d539d4b564",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b9c09df3f98c328",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be0279be569897ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b35a045b6edf327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5aaf053b76fcf7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Party/Nhelavyss.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6283c75ad8dd54b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Party/Nhelavyss.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "748a7fc44187e58b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c4d1b151a711fec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Party/Nhelavyss.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c48168ad918a1d49",
+  "lastOpenFiles": [
+    "Party/Tuk Greengrass.md",
+    "Party/Orfeo callis.md",
+    "NPCs/Die Luftallianz/Die Luftallianz.md",
+    "Gegenstände/Hedenolit.md",
+    "Mitschrift/S6 18.02.2024 Der zweite Arbeitstag.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Sanjeev.md",
+    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
+    "Drest.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Drest.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Terell.md",
+    "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
+    "Party/Kena.md",
+    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag (1).md",
+    "Gegenstände/Symbol der Kultisten.md",
+    "Party/Nhelavyss.md",
+    "Mitschrift/S4 14.01.2024 Freiwillige AnstellungTress.md",
+    "Mitschrift/S2 14.12.2023 Luftschiffverhandlungen.md",
+    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
+    "Mitschrift/S1 30.11.2023 The Beginning.md",
+    "Orte/Aesley.md",
+    "Gegenstände",
+    "Pictures/symbol.jpg",
+    "Pictures",
+    "Orte/Skeates Schiffe/schwarzes Fohlen.md",
+    "Orte/Skeates Schiffe/Pony.md",
+    "Orte/Skeates Schiffe/Donnerritt.md",
+    "Orte/Skeates Schiffe",
+    "Orte/Phantoms Schiffe/Mels Schatten.md",
+    "Orte/Phantoms Schiffe/Betsy.md",
+    "Orte/Phantoms Schiffe",
+    "Orte/zepletor.md",
+    "Orte",
+    "NPCs/Kultisten",
+    "NPCs/Kistenträger",
+    "NPCs/Die Luftallianz",
+    "NPCs/Die 12 Piratenkapitäne/Crew von Skeates",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms"
+  ]
+}

@@ -1,0 +1,11 @@
+#skeates
+- Typ mit ledrigen Hut und breiter Kremlpe steht vor? Wirkt fehl am Platz, Twink.
+- Kapitän der [[Donnerritt]]
+- eine der 12.
+- haben in der Nähe [[Aesley]] ein Handel mit ??? gemacht
+- hat eine Pistole
+- ist sehr launisch
+- scheint [[Vardan]] zu kennen
+- ist der Götting [[Mel]] abgeneigt.
+- vorheriger Captain war [[Drago]]
+- 

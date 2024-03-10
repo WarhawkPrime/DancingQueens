@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "96b84bbfd9f4b221",
+    "type": "split",
+    "children": [
+      {
+        "id": "3011763d7e26cd8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0da8386e4f4cacec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orte/Aesley.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9338d0bde9c1303d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfad172138f02373",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda872b21e59bac6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf2c5e4fdfb120f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edb554db8762bf99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9bb40d28c2e225e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ab3c349427d02a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f941a6e440b79c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Orte/Aesley.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0296c26a624e3b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Orte/Aesley.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0f2991cbfd37d07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ce38df5cd9a9d15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Orte/Aesley.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0da8386e4f4cacec",
+  "lastOpenFiles": [
+    "Orte/Drests Insel.md",
+    "Orte/Envaria.md",
+    "Orte/Jahrhundertbaum.md",
+    "Orte/Knochen und Geist.md",
+    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md"
+  ]
+}

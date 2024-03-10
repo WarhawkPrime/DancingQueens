@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"88a3f47fb8a409d5","type":"file","file":"Party/Orfeo callis.md","x":-840,"y":-380,"width":400,"height":50},
+		{"id":"140ff608960b058f","type":"text","text":"# Siegel\n\n## Was ist ein Siegel\n- Siegel werden genutzt um Briefe zu verschließen\n- Ursprünglich: Form der Beglaubigung von Urkunden\n- Seit der Antike oft Symbole königlicher oder adeliger Macht\n- Siegel müssen gebrochen werden bevor das Dokument gesehen werden kann\n- Siegel können im Kontext der Magie auch sowas wie Türen/Portale/Eingänge etc zuhalten. \n- => Das Siegel ist weniger Wichtig als das, was dahinter ist\n\n## Warum nennt sich eine Organisation Siegel?\n- Identifiziert sich mit einem spezifischen existierenden Siegel oder der Idee eines Siegels. Alternativ nur mit der funktionsweise eines Siegels. \n- Alternativ: Da das, was hinter dem Siegel ist, wichtiger ist als das Siegel selber, identifiziert sich die Organisation eher mit dem, was hinter dem Siegel ist. Der Name dient entweder nur zur Tarnung oder weil sie sich um das Siegel \"kümmern\" müssen und aktuell eine große Bedeutung hat.","x":100,"y":-390,"width":540,"height":650},
+		{"id":"5770b483f0e2b9fd","type":"text","text":"# Kann etwas das geendet hat, im Chaos bleiben?\n- Kann dieses etwas \"zurückgeholt werden\"?\n- Wie lange kann man im Void/Chaos bleiben?\n- Wie viel weiß man darüber? \n\n## Vorgehen bei Experimenten:\n- klein Anfangen, danach groß werden.\n- Besonders relevant, wenn man nur eine Chance hat => wichtiges Ziel","x":-989,"y":80,"width":698,"height":327},
+		{"id":"2c856e2aeb1c9a8e","type":"text","text":"# Inwiefern muss man sich um ein Siegel \"kümmern\"\n- Wenn der Zustand statisch wäre, müsste sich niemand darum kümmern\n- => Der Zustand ist nicht statisch\n- => Option1: Das Siegel soll gebrochen werden und die Organisation arbeitet aktiv darauf hin oder \n- Option2: Das Siegel soll erhalten bleiben und die Organisation arbeitet aktiv darauf hin\n- Option3: Die wollen ein Siegel anbringen","x":-3,"y":320,"width":747,"height":271},
+		{"id":"44532feab6f157e3","type":"file","file":"NPCs/Kultisten- Das Siegel/Das Siegel.md","x":-377,"y":-475,"width":400,"height":240},
+		{"id":"a26b8275a6cd83d7","type":"text","text":"# Aufwachen von Orfeo\n- Die Anwesenheit von Orf war erwartet, nicht das Aufwachen: \"Die Kapuze ist heruntergeruscht: junger Mann mit schwarzen Haaren. Er ruft, dass der Tiefling wach sei.\"\n- Orf war nummer 12 -> 11 andere, die nicht aufgewacht sind","x":-1460,"y":-425,"width":533,"height":190},
+		{"id":"9f88638e0759fd50","type":"file","file":"Orte/Niffvild.md","x":-1880,"y":-415,"width":400,"height":50},
+		{"id":"351d7ed150e90c87","type":"file","file":"Orte/Chaos.md","x":-840,"y":-215,"width":400,"height":255},
+		{"id":"64fd4823962ca30b","type":"text","text":"# Was ist hinter dem Siegel?\n- etwas im Chaos?\n- jmd im Chaos?","x":-862,"y":543,"width":445,"height":137},
+		{"id":"b21b80cb2e60cada","type":"text","text":"# Orf ist ein zufällig? geklücktes Experiment\n- War Orf das eigentliche \"Ziel\"? \n\t- Arg Unwahrscheinlich, da ansonsten andere behandlung bekommen hätte und ansonsten das Aufwachen keine Überraschung gewesen wäre\n- Das Siegel weiß nun, was es tun muss um das Ergebnis zu wiederholen\n- => Es wird nicht lange dauern, bis das selbe mit dem eigentlichen Ziel gemacht wird","x":-1560,"y":244,"width":504,"height":348,"color":"1"},
+		{"id":"a1582f5183ab835c","type":"text","text":"# Fragen:\n- Wie lange existiert das Siegel schon?","x":-291,"y":-87,"width":352,"height":146},
+		{"id":"018a8dffb5a2af22","type":"text","text":"# Option 1\n- Irgendwo gibt es ein tatsächliches oder methaphorisches Siegel, welches gebrochen werden soll\n- Siegel werden von jmd angebracht->Irgendwann hat jmd./etwas  ein Siegel an etwas angebracht, welches die Kultisten brechen wollen","x":100,"y":676,"width":488,"height":230},
+		{"id":"35e901a3851dc428","type":"text","text":"# Option 2\n- Irgendwo gibt es ein tatsächliches oder methaphorisches Siegel, welches nicht gebrochen werden soll\n- Die Kultisten haben das Siegel angebracht und jmd./etwas arbeitet daran, es zu brechen","x":588,"y":680,"width":429,"height":226},
+		{"id":"06da42118a6dce8b","type":"text","text":"# Option 3\n- Irgendwo gibt es etwas, was ein Siegel bekommen soll","x":612,"y":950,"width":382,"height":115},
+		{"id":"b53e0789c5859729","type":"text","text":"# Wer ist wichtig genug, um aus dem Chaos geholt zu werden?\n# Wer ist wichtig genug, damit der Zugang dazu versiegelt wird?","x":-959,"y":898,"width":640,"height":220,"color":"1"},
+		{"id":"d880e07f1746cb6d","type":"text","text":"# Wieso [[Niffvild]]\n- abgelegener Ort? Daher auch die Piratengeschäfte an sehr ähnlicher Stelle\n- Möglichkeit, Leute/Leichen verschwinden zu lassen? - Daher die Überraschung, dass Orf aufgewacht ist?\n- Wieso dann Altar und nicht Grab? -> Autopsie? Chaos-Energie untersuchen? \n- ","x":-1873,"y":-223,"width":393,"height":271}
+	],
+	"edges":[
+		{"id":"13c0cbcfb322f971","fromNode":"44532feab6f157e3","fromSide":"right","toNode":"140ff608960b058f","toSide":"left"},
+		{"id":"702e2f1be5374ece","fromNode":"44532feab6f157e3","fromSide":"left","toNode":"88a3f47fb8a409d5","toSide":"right"},
+		{"id":"17a4d52c60bbaf23","fromNode":"44532feab6f157e3","fromSide":"bottom","toNode":"351d7ed150e90c87","toSide":"right"},
+		{"id":"f1d39340690d3994","fromNode":"88a3f47fb8a409d5","fromSide":"bottom","toNode":"351d7ed150e90c87","toSide":"top"},
+		{"id":"b158449f4c1f47ca","fromNode":"140ff608960b058f","fromSide":"bottom","toNode":"2c856e2aeb1c9a8e","toSide":"top"},
+		{"id":"192656b64d9600f0","fromNode":"351d7ed150e90c87","fromSide":"bottom","toNode":"5770b483f0e2b9fd","toSide":"top"},
+		{"id":"3b033bcc473b1c02","fromNode":"88a3f47fb8a409d5","fromSide":"left","toNode":"a26b8275a6cd83d7","toSide":"right"},
+		{"id":"89738fbbc73ccdc6","fromNode":"2c856e2aeb1c9a8e","fromSide":"bottom","toNode":"018a8dffb5a2af22","toSide":"top"},
+		{"id":"2fd92e83a2fe93d6","fromNode":"2c856e2aeb1c9a8e","fromSide":"left","toNode":"64fd4823962ca30b","toSide":"right"},
+		{"id":"41c58285077c48f3","fromNode":"2c856e2aeb1c9a8e","fromSide":"bottom","toNode":"35e901a3851dc428","toSide":"top"},
+		{"id":"dff433e5560bc937","fromNode":"9f88638e0759fd50","fromSide":"bottom","toNode":"d880e07f1746cb6d","toSide":"top"},
+		{"id":"d94958ed7f7ac32b","fromNode":"a26b8275a6cd83d7","fromSide":"bottom","toNode":"d880e07f1746cb6d","toSide":"right"},
+		{"id":"3d2ead115992daa4","fromNode":"5770b483f0e2b9fd","fromSide":"bottom","toNode":"64fd4823962ca30b","toSide":"top"},
+		{"id":"0f86bae97e76e111","fromNode":"a26b8275a6cd83d7","fromSide":"bottom","toNode":"b21b80cb2e60cada","toSide":"top"},
+		{"id":"8e2698b33fe22bb4","fromNode":"5770b483f0e2b9fd","fromSide":"left","toNode":"d880e07f1746cb6d","toSide":"right"},
+		{"id":"996a2f97f4d0a3b8","fromNode":"018a8dffb5a2af22","fromSide":"left","toNode":"b21b80cb2e60cada","toSide":"bottom"},
+		{"id":"b815cd0fb99d55f3","fromNode":"b21b80cb2e60cada","fromSide":"right","toNode":"64fd4823962ca30b","toSide":"left"},
+		{"id":"357739a87a5d0e73","fromNode":"64fd4823962ca30b","fromSide":"bottom","toNode":"b53e0789c5859729","toSide":"top"},
+		{"id":"0df04fc101d7299b","fromNode":"018a8dffb5a2af22","fromSide":"bottom","toNode":"b53e0789c5859729","toSide":"right","label":"Das Siegel versiegelt den Zugang zu dem Wesen im Chaos"},
+		{"id":"4a55aebde8bf8e31","fromNode":"44532feab6f157e3","fromSide":"bottom","toNode":"a1582f5183ab835c","toSide":"top"},
+		{"id":"a3a550d7c19d64da","fromNode":"35e901a3851dc428","fromSide":"bottom","toNode":"06da42118a6dce8b","toSide":"top"}
+	]
+}
