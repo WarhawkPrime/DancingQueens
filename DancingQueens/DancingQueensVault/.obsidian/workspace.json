@@ -11,11 +11,14 @@
             "id": "b16a522cecf3b47c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
-                "mode": "source",
-                "source": false
+                "file": "Theorien/Hedononit.canvas",
+                "viewState": {
+                  "x": -509.9064449064449,
+                  "y": 393.6746361746362,
+                  "zoom": -0.689089887266049
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
+                "file": "Theorien/Hedononit.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
+                "file": "Theorien/Hedononit.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mitschrift/S8 10.03.2024 Therapiesitzung.md"
+                "file": "Theorien/Hedononit.canvas"
               }
             }
           }
@@ -148,22 +151,28 @@
   },
   "active": "b16a522cecf3b47c",
   "lastOpenFiles": [
-    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
+    "Theorien/Siegel.canvas",
+    "Theorien/Hedononit.canvas",
     "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
+    "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
+    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
+    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
+    "Gegenstände/Hedenolit.md",
+    "Mitschrift/S2 14.12.2023 Luftschiffverhandlungen.md",
+    "Orte/Phantoms Schiffe/Mels Schatten.md",
+    "Orte/Phantoms Schiffe/Phantoms Schiffe/Mels Schatten.md",
+    "Orte/Phantoms Schiffe/Luftakrobat.md",
+    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Lilya.md",
     "Orte/Dubrok.md",
     "Orte/Nolgandra.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Organigramm Phantom.canvas",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Varvara.md",
-    "Gegenstände/Hedenolit.md",
     "Mitschrift/Zeitstrahl.canvas",
-    "Theorien/Siegel.canvas",
     "Mitschrift/S6 18.02.2024 Der Zweite Arbeitstag.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Nardo.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Marelli.md",
-    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Sanjeev.md",
-    "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Terell.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Phantom.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/darshana.md",
@@ -171,15 +180,9 @@
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Chike Vossen.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die zweite Hand.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Untitled.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Drest.md",
     "Pictures/Lilya.png",
     "Pictures/Drest.png",
     "Pictures/symbol.jpg",
-    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
-    "Mitschrift/S2 14.12.2023 Luftschiffverhandlungen.md",
-    "Mitschrift/S1 30.11.2023 The Beginning.md",
-    "Untitled.md",
-    "NPCs/Die Luftallianz/Die Luftallianz.md",
     "Theorien/desktop.ini",
     "Theorien",
     "Untitled (69)/desktop.ini",

@@ -1,3 +1,3 @@
 #location 
 - Libellentyp
-- stationiert auf der [[Mels Schatten]]
+- stationiert auf der [[Orte/Phantoms Schiffe/Mels Schatten]]

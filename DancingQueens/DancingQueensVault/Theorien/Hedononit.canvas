@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"7bcbfbdd2becb6ca","type":"text","text":"Drest ist interessiert zu sein, den Stein zu sehen. Die dritte Hand wirkt etwas angespannt. Drest sagt dem Stein etwas. Dey Blick geht zur dritten Hand ganz kurz. Stein ist teil eines Sets, man macht irgendwas Bildliches, wenn man das ganze Set hat. Man könnte ein Bild damit projezieren. Man könnte auch eine Kopie einer Karte machen","x":-1200,"y":-120,"width":520,"height":180},
+		{"id":"b8185ed0f476028b","x":-1120,"y":-260,"width":360,"height":90,"type":"text","text":"Keine besondere Reaktion (soweit gesehen) vom Phantom oder der dritten Hand beim ersten Zeigen des Steins"},
+		{"id":"08deba056e8be530","x":-1065,"y":-400,"width":250,"height":60,"type":"text","text":"# Reaktionen"},
+		{"id":"d20c1df29b448aac","x":-525,"y":-400,"width":250,"height":60,"type":"text","text":"# Fakten"},
+		{"id":"9015e445b2239d50","type":"file","file":"Gegenstände/Hedenolit.md","x":-600,"y":-260,"width":400,"height":260},
+		{"id":"decb406b53e429c5","x":-1015,"y":200,"width":740,"height":100,"type":"text","text":"# Warum war die dritte Hand mit Drest angespannt, hat uns aber den Stein nicht abgenommen?"},
+		{"id":"b13be46523e8b4aa","x":-525,"y":360,"width":425,"height":140,"type":"text","text":"- Der Stein selber ist keine Gefahr\n- Es gibt keine Möglichkeit, evtl existierende Infos zu extrahieren ohne das Set\n- Der Stein selber ist nicht so wertvoll für das Phantom"},
+		{"id":"2707b9f4943199bd","x":-1180,"y":360,"width":330,"height":120,"type":"text","text":"- Wir hätten keine Wahl gehabt, als den Stein abzugeben. \n- wir hätten 0 Widerstand gegeben"},
+		{"id":"f5461486f83876c9","x":-1180,"y":560,"width":330,"height":60,"type":"text","text":"Die dritte Hand will zumindest nicht selber den Stein haben"},
+		{"id":"f3ed96163d3a1a33","x":-437,"y":530,"width":250,"height":60,"type":"text","text":"Beunruhigung geht nicht vom Stein selber aus"},
+		{"id":"39d2134aac840905","x":-437,"y":590,"width":250,"height":108,"type":"text","text":"Ist die Tatsache, dass WIR ihn in Besitz haben, beunruhigend?"},
+		{"id":"0dcc5ff01fd96ec9","x":-362,"y":698,"width":100,"height":54,"type":"text","text":"Nein"},
+		{"id":"3dde0a8be08b5287","x":-437,"y":752,"width":250,"height":80,"type":"text","text":"Ist die Tatsache, woher wir ihn haben, beunruhigend?"},
+		{"id":"9218b9d1490f3431","x":-362,"y":832,"width":102,"height":50,"type":"text","text":"Vllt."},
+		{"id":"ecf72123e14aff24","x":-1190,"y":703,"width":350,"height":98,"type":"text","text":"Will ihn nicht selber haben (wegen Gründen), hat aber nichts dagegen wenn wir ihn haben"},
+		{"id":"7719c3b7fc8778f0","x":-1165,"y":852,"width":301,"height":61,"type":"text","text":"Hofft, das wir was erledigen, was sonst niemand machen will."},
+		{"id":"8105569415459cde","x":-596,"y":920,"width":285,"height":60,"type":"text","text":"Angst vor Skeats vergeltung?"},
+		{"id":"37df1346118bafe0","x":-311,"y":920,"width":250,"height":60,"type":"text","text":"Wie kam Skeats an den Stein?"},
+		{"id":"d3f9c65bf50dd036","x":-1220,"y":950,"width":250,"height":60,"type":"text","text":"Verfluchter Schatz"}
+	],
+	"edges":[
+		{"id":"d417853bb3092247","fromNode":"b8185ed0f476028b","fromSide":"bottom","toNode":"7bcbfbdd2becb6ca","toSide":"top"},
+		{"id":"51cb67b8b864280e","fromNode":"08deba056e8be530","fromSide":"bottom","toNode":"b8185ed0f476028b","toSide":"top"},
+		{"id":"9cdad96a747e2ef8","fromNode":"d20c1df29b448aac","fromSide":"bottom","toNode":"9015e445b2239d50","toSide":"top"},
+		{"id":"04f9cd5d56c254d5","fromNode":"9015e445b2239d50","fromSide":"bottom","toNode":"decb406b53e429c5","toSide":"top"},
+		{"id":"6244056ae89e6ed4","fromNode":"7bcbfbdd2becb6ca","fromSide":"bottom","toNode":"decb406b53e429c5","toSide":"top"},
+		{"id":"9a63ded8b0f69b80","fromNode":"2707b9f4943199bd","fromSide":"bottom","toNode":"f5461486f83876c9","toSide":"top"},
+		{"id":"46d1786afc4edb47","fromNode":"f5461486f83876c9","fromSide":"right","toNode":"b13be46523e8b4aa","toSide":"left"},
+		{"id":"9d3cad456ae5a21c","fromNode":"39d2134aac840905","fromSide":"bottom","toNode":"0dcc5ff01fd96ec9","toSide":"top"},
+		{"id":"75e3935af1bbd5cd","fromNode":"b13be46523e8b4aa","fromSide":"bottom","toNode":"f3ed96163d3a1a33","toSide":"top"},
+		{"id":"9b1beb9d7d727dc1","fromNode":"0dcc5ff01fd96ec9","fromSide":"bottom","toNode":"3dde0a8be08b5287","toSide":"top"},
+		{"id":"3937a9dbe92d598a","fromNode":"f3ed96163d3a1a33","fromSide":"bottom","toNode":"39d2134aac840905","toSide":"top"},
+		{"id":"703536ee323bf139","fromNode":"3dde0a8be08b5287","fromSide":"bottom","toNode":"9218b9d1490f3431","toSide":"top"},
+		{"id":"954077db2679c290","fromNode":"9218b9d1490f3431","fromSide":"bottom","toNode":"8105569415459cde","toSide":"top"},
+		{"id":"2168f67d91f27dc6","fromNode":"f5461486f83876c9","fromSide":"bottom","toNode":"ecf72123e14aff24","toSide":"top"},
+		{"id":"de20d353923d1317","fromNode":"ecf72123e14aff24","fromSide":"bottom","toNode":"7719c3b7fc8778f0","toSide":"top"},
+		{"id":"2f08345cfdfc293d","fromNode":"9218b9d1490f3431","fromSide":"bottom","toNode":"37df1346118bafe0","toSide":"top"},
+		{"id":"0aec60259b9e6413","fromNode":"7719c3b7fc8778f0","fromSide":"bottom","toNode":"d3f9c65bf50dd036","toSide":"top"}
+	]
+}
