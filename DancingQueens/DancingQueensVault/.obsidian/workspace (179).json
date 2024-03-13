@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "548d8eef3ed305e3",
+    "id": "9bc639d722e36a2a",
     "type": "split",
     "children": [
       {
-        "id": "b2485d815f938f02",
+        "id": "44c627320d8a3b31",
         "type": "tabs",
         "children": [
           {
-            "id": "b16a522cecf3b47c",
+            "id": "9d18e70d4fbdb2de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
+                "file": "Götter/Selune.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5238256303c438c2",
+    "id": "016cfebcedca64a9",
     "type": "split",
     "children": [
       {
-        "id": "83b4193eb22074c4",
+        "id": "a7cb0b96f8393900",
         "type": "tabs",
         "children": [
           {
-            "id": "ef949f7633f08994",
+            "id": "271fff04067add8e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "6a2041d539d4b564",
+            "id": "38781bad28ca74c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "2b9c09df3f98c328",
+            "id": "b9888f6dd0f4bbd4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "be0279be569897ff",
+    "id": "b4ba3c440490d595",
     "type": "split",
     "children": [
       {
-        "id": "7b35a045b6edf327",
+        "id": "b433be638b216748",
         "type": "tabs",
         "children": [
           {
-            "id": "d5aaf053b76fcf7e",
+            "id": "fe3ea9635aaaa287",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
+                "file": "Götter/Selune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "d6283c75ad8dd54b",
+            "id": "60cd0845876a53a5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
+                "file": "Götter/Selune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "748a7fc44187e58b",
+            "id": "ce028d8d2fd25722",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "9c4d1b151a711fec",
+            "id": "8461d8498083fca9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mitschrift/S8 10.03.2024 Therapiesitzung.md"
+                "file": "Götter/Selune.md"
               }
             }
           }
@@ -146,49 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b16a522cecf3b47c",
+  "active": "9d18e70d4fbdb2de",
   "lastOpenFiles": [
-    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
-    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Lilya.md",
-    "Orte/Dubrok.md",
-    "Orte/Nolgandra.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Organigramm Phantom.canvas",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Varvara.md",
-    "Gegenstände/Hedenolit.md",
-    "Mitschrift/Zeitstrahl.canvas",
-    "Theorien/Siegel.canvas",
-    "Mitschrift/S6 18.02.2024 Der Zweite Arbeitstag.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Nardo.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Marelli.md",
-    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Sanjeev.md",
-    "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Terell.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Phantom.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/darshana.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Amandus.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Chike Vossen.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die zweite Hand.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Untitled.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Drest.md",
+    "Götter/Mel.md",
     "Pictures/Lilya.png",
-    "Pictures/Drest.png",
     "Pictures/symbol.jpg",
-    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
-    "Mitschrift/S2 14.12.2023 Luftschiffverhandlungen.md",
-    "Mitschrift/S1 30.11.2023 The Beginning.md",
-    "Untitled.md",
-    "NPCs/Die Luftallianz/Die Luftallianz.md",
-    "Theorien/desktop.ini",
-    "Theorien",
-    "Untitled (69)/desktop.ini",
-    "Untitled (69)",
-    "Untitled (68)/desktop.ini",
-    "Untitled (68)",
-    "Untitled (67)/desktop.ini",
-    "Untitled (67)",
-    "Untitled (66)/desktop.ini",
-    "Untitled (66)"
+    "Pictures/Drest.png",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Organigramm Phantom.canvas",
+    "Mitschrift/S8 10.03.2024.md"
   ]
 }
