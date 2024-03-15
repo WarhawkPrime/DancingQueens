@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Theorien/Hedononit.canvas",
+                "file": "Theorien/Siegel.canvas",
                 "viewState": {
-                  "x": -509.9064449064449,
-                  "y": 393.6746361746362,
-                  "zoom": -0.689089887266049
+                  "x": -1061.9749198440127,
+                  "y": 1147.0286988138607,
+                  "zoom": -0.3710609523254373
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theorien/Hedononit.canvas",
+                "file": "Theorien/Siegel.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theorien/Hedononit.canvas",
+                "file": "Theorien/Siegel.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theorien/Hedononit.canvas"
+                "file": "Theorien/Siegel.canvas"
               }
             }
           }
@@ -151,8 +151,11 @@
   },
   "active": "b16a522cecf3b47c",
   "lastOpenFiles": [
-    "Theorien/Siegel.canvas",
     "Theorien/Hedononit.canvas",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Phantom.md",
+    "Pictures/symbol.jpg",
+    "Gegenstände/Symbol der Kultisten.md",
+    "Theorien/Siegel.canvas",
     "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
     "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
     "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
@@ -174,15 +177,12 @@
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Marelli.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Sanjeev.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Terell.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Phantom.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/darshana.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Amandus.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Chike Vossen.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die zweite Hand.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Untitled.md",
     "Pictures/Lilya.png",
     "Pictures/Drest.png",
-    "Pictures/symbol.jpg",
     "Theorien/desktop.ini",
     "Theorien",
     "Untitled (69)/desktop.ini",
