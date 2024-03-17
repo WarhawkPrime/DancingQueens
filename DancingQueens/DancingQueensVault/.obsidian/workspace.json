@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b2485d815f938f02",
+        "id": "442e8a8af2f47550",
         "type": "tabs",
         "children": [
           {
-            "id": "b16a522cecf3b47c",
+            "id": "28cf392a8938e184",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Theorien/Siegel.canvas",
-                "viewState": {
-                  "x": -1061.9749198440127,
-                  "y": 1147.0286988138607,
-                  "zoom": -0.3710609523254373
-                }
+                "file": "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theorien/Siegel.canvas",
+                "file": "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theorien/Siegel.canvas",
+                "file": "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theorien/Siegel.canvas"
+                "file": "Mitschrift/S8 10.03.2024 Therapiesitzung.md"
               }
             }
           }
@@ -149,14 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b16a522cecf3b47c",
+  "active": "28cf392a8938e184",
   "lastOpenFiles": [
+    "Mitschrift/Zeitstrahl.canvas",
+    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
     "Theorien/Hedononit.canvas",
+    "Theorien/Siegel.canvas",
+    "Party/Nhelavyss.md",
+    "Siegel.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Phantom.md",
     "Pictures/symbol.jpg",
     "Gegenstände/Symbol der Kultisten.md",
-    "Theorien/Siegel.canvas",
-    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
     "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
     "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
     "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
@@ -171,7 +171,6 @@
     "Orte/Nolgandra.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Organigramm Phantom.canvas",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Varvara.md",
-    "Mitschrift/Zeitstrahl.canvas",
     "Mitschrift/S6 18.02.2024 Der Zweite Arbeitstag.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Nardo.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Marelli.md",
@@ -179,8 +178,6 @@
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Terell.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/darshana.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Amandus.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Chike Vossen.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die zweite Hand.md",
     "Pictures/Lilya.png",
     "Pictures/Drest.png",
     "Theorien/desktop.ini",

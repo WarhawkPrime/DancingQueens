@@ -11,7 +11,9 @@
 		{"id":"4bb9935c705bc1c6","type":"text","text":"Wir erklären uns für den gescheiterten Test, [[Kena]] untersucht [[Orfeo callis]]\n[[S5 04.02.2024 Der erste Arbeitstag]]","x":-2060,"y":-740,"width":580,"height":60},
 		{"id":"801cf0c920ddbff6","type":"text","text":"Wir fliehen vor [[Kapitän Skeates]]\n[[S3 30.12.2023 Gezwungener Ausbruch]]","x":-1874,"y":-910,"width":354,"height":60},
 		{"id":"028331dbdd9df29f","type":"text","text":"Ankuft beim [[Phantom]],\n[[S4 14.01.2024 Freiwillige Anstellung]]","x":-1874,"y":-840,"width":354,"height":60},
-		{"id":"f3080ef4594003a2","type":"text","text":"Ankuft auf [[Drests Insel]], [[Kena]] bekommt einen \"Sonnendolch\"\n[[S7 25.02.2024 Der erste Auftrag]]","x":-1874,"y":-554,"width":494,"height":60}
+		{"id":"f3080ef4594003a2","type":"text","text":"Ankuft auf [[Drests Insel]], [[Kena]] bekommt einen \"Sonnendolch\"\n[[S7 25.02.2024 Der erste Auftrag]]","x":-1874,"y":-554,"width":494,"height":60},
+		{"id":"50584b380cdc2392","type":"text","text":"15. Selune","x":-1304,"y":-494,"width":250,"height":60},
+		{"id":"686d94c56ddf7415","type":"text","text":"Wir führen ein Therapiegespräch, wir wollen [[Lilya]] vom Fluch befreien.\n[[S8 10.03.2024 Therapiesitzung]]","x":-1920,"y":-464,"width":580,"height":60}
 	],
 	"edges":[
 		{"id":"416b66cac0e7f612","fromNode":"b1d6b9a94af90b1d","fromSide":"left","toNode":"028331dbdd9df29f","toSide":"right"},
@@ -24,6 +26,8 @@
 		{"id":"6420c62b9d1c14f5","fromNode":"13103b9e0f35221b","fromSide":"left","toNode":"4bb9935c705bc1c6","toSide":"right"},
 		{"id":"781edef0ba9167f6","fromNode":"13103b9e0f35221b","fromSide":"bottom","toNode":"2a6e51a41064e7cf","toSide":"top"},
 		{"id":"cfeefa76e2d32837","fromNode":"2a6e51a41064e7cf","fromSide":"left","toNode":"6981187144d1d9ed","toSide":"right"},
-		{"id":"1f4d70f6ca6e06e9","fromNode":"2a6e51a41064e7cf","fromSide":"bottom","toNode":"b3bcb97be716c448","toSide":"top"}
+		{"id":"1f4d70f6ca6e06e9","fromNode":"2a6e51a41064e7cf","fromSide":"bottom","toNode":"b3bcb97be716c448","toSide":"top"},
+		{"id":"7e3b96b4499e94b0","fromNode":"b3bcb97be716c448","fromSide":"bottom","toNode":"50584b380cdc2392","toSide":"top"},
+		{"id":"753d7cc8d3a0a642","fromNode":"50584b380cdc2392","fromSide":"left","toNode":"686d94c56ddf7415","toSide":"right"}
 	]
 }

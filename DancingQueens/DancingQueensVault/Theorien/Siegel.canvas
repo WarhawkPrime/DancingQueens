@@ -16,10 +16,11 @@
 		{"id":"06da42118a6dce8b","type":"text","text":"# Option 3\n- Irgendwo gibt es etwas, was ein Siegel bekommen soll","x":612,"y":950,"width":382,"height":115},
 		{"id":"b53e0789c5859729","type":"text","text":"# Wer ist wichtig genug, um aus dem Chaos geholt zu werden?\n# Wer ist wichtig genug, damit der Zugang dazu versiegelt wird?","x":-959,"y":898,"width":640,"height":220,"color":"1"},
 		{"id":"d880e07f1746cb6d","type":"text","text":"# Wieso [[Niffvild]]\n- abgelegener Ort? Daher auch die Piratengeschäfte an sehr ähnlicher Stelle\n- Möglichkeit, Leute/Leichen verschwinden zu lassen? - Daher die Überraschung, dass Orf aufgewacht ist?\n- Wieso dann Altar und nicht Grab? -> Autopsie? Chaos-Energie untersuchen? \n- ","x":-1873,"y":-223,"width":393,"height":271},
-		{"id":"939795908dd2851d","x":-1621,"y":801,"width":481,"height":97,"color":"1","type":"text","text":"# Was wenn das Siegel Orf nicht fertig untersuchen konnte?"},
-		{"id":"464e40c933332b42","x":-2073,"y":918,"width":400,"height":400,"type":"file","file":"NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Kapitän Skeates.md"},
-		{"id":"6dfeb16b7e2fc7b2","x":-1505,"y":948,"width":250,"height":60,"type":"text","text":"Das Siegel hätte großes Interesse ihn zu fiden"},
-		{"id":"75d1010941d1ffce","x":-1505,"y":1088,"width":250,"height":172,"type":"text","text":"- Wissen von Skeates\n- Beide hätten ein Interesse und die Möglichkeit, Geschäfte zu machen."}
+		{"id":"939795908dd2851d","type":"text","text":"# Was wenn das Siegel Orf nicht fertig untersuchen konnte?","x":-1621,"y":801,"width":481,"height":97,"color":"1"},
+		{"id":"6dfeb16b7e2fc7b2","type":"text","text":"Das Siegel hätte großes Interesse ihn zu fiden","x":-1505,"y":948,"width":250,"height":60},
+		{"id":"75d1010941d1ffce","type":"text","text":"- Wissen von Skeates\n- Beide hätten ein Interesse und die Möglichkeit, Geschäfte zu machen.","x":-1583,"y":1080,"width":405,"height":112},
+		{"id":"464e40c933332b42","type":"file","file":"NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Kapitän Skeates.md","x":-1960,"y":953,"width":273,"height":50},
+		{"id":"d52e4ae3747976f2","x":-1725,"y":1240,"width":250,"height":60,"type":"text","text":"Evtl offenes Kopfgeld bei Piratenkapitäne"}
 	],
 	"edges":[
 		{"id":"13c0cbcfb322f971","fromNode":"44532feab6f157e3","fromSide":"right","toNode":"140ff608960b058f","toSide":"left"},
@@ -46,6 +47,7 @@
 		{"id":"03874d3fb27fb0eb","fromNode":"b21b80cb2e60cada","fromSide":"bottom","toNode":"939795908dd2851d","toSide":"top"},
 		{"id":"35c309a1a8435e7f","fromNode":"939795908dd2851d","fromSide":"bottom","toNode":"6dfeb16b7e2fc7b2","toSide":"top"},
 		{"id":"73ceaf6a7478f0c7","fromNode":"464e40c933332b42","fromSide":"right","toNode":"75d1010941d1ffce","toSide":"left"},
-		{"id":"b5254a03115d3ffe","fromNode":"6dfeb16b7e2fc7b2","fromSide":"bottom","toNode":"75d1010941d1ffce","toSide":"top"}
+		{"id":"b5254a03115d3ffe","fromNode":"6dfeb16b7e2fc7b2","fromSide":"bottom","toNode":"75d1010941d1ffce","toSide":"top"},
+		{"id":"0b95d814abc58b93","fromNode":"75d1010941d1ffce","fromSide":"bottom","toNode":"d52e4ae3747976f2","toSide":"top"}
 	]
 }
