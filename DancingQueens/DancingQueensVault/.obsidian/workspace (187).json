@@ -1,21 +1,19 @@
 {
   "main": {
-    "id": "548d8eef3ed305e3",
+    "id": "2ddeda7b36bab01f",
     "type": "split",
     "children": [
       {
-        "id": "442e8a8af2f47550",
+        "id": "7e2ed22c98b622aa",
         "type": "tabs",
         "children": [
           {
-            "id": "28cf392a8938e184",
+            "id": "bd653e23fff0bca0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
-                "mode": "source",
-                "source": false
+                "file": "Pictures/symbol.jpg"
               }
             }
           }
@@ -25,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5238256303c438c2",
+    "id": "06d5d331d7e13834",
     "type": "split",
     "children": [
       {
-        "id": "83b4193eb22074c4",
+        "id": "940b4ebda65f8940",
         "type": "tabs",
         "children": [
           {
-            "id": "ef949f7633f08994",
+            "id": "96ede9e3e502f80e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +41,7 @@
             }
           },
           {
-            "id": "6a2041d539d4b564",
+            "id": "5b417fc74533126f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +56,7 @@
             }
           },
           {
-            "id": "2b9c09df3f98c328",
+            "id": "7556cbae2ec946c0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +70,20 @@
     "width": 300
   },
   "right": {
-    "id": "be0279be569897ff",
+    "id": "13008ba4a587dd09",
     "type": "split",
     "children": [
       {
-        "id": "7b35a045b6edf327",
+        "id": "bb8df8e1b156b5f2",
         "type": "tabs",
         "children": [
           {
-            "id": "d5aaf053b76fcf7e",
+            "id": "3cf392d0c1c96778",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
+                "file": "Pictures/symbol.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +95,19 @@
             }
           },
           {
-            "id": "d6283c75ad8dd54b",
+            "id": "5291eeda0b842267",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
+                "file": "Pictures/symbol.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "748a7fc44187e58b",
+            "id": "e057328d39b4e6ee",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +118,12 @@
             }
           },
           {
-            "id": "9c4d1b151a711fec",
+            "id": "44b09f87a41f6757",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md"
+                "file": "Pictures/symbol.jpg"
               }
             }
           }
@@ -146,50 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28cf392a8938e184",
+  "active": "bd653e23fff0bca0",
   "lastOpenFiles": [
-    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
-    "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
-    "Orte/Niffvild.md",
-    "Orte/Nordwind.md",
-    "Orte/Nolgandra.md",
-    "Orte/Aesley.md",
-    "Theorien/Hedononit.canvas",
-    "Mitschrift/Zeitstrahl.canvas",
-    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
-    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
-    "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Dana.md",
     "Theorien/Siegel.canvas",
-    "Party/Nhelavyss.md",
-    "Siegel.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Phantom.md",
-    "Pictures/symbol.jpg",
-    "Gegenstände/Symbol der Kultisten.md",
-    "Gegenstände/Hedenolit.md",
-    "Mitschrift/S2 14.12.2023 Luftschiffverhandlungen.md",
-    "Orte/Phantoms Schiffe/Mels Schatten.md",
-    "Orte/Phantoms Schiffe/Phantoms Schiffe/Mels Schatten.md",
-    "Orte/Phantoms Schiffe/Luftakrobat.md",
-    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Lilya.md",
-    "Orte/Dubrok.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Organigramm Phantom.canvas",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Varvara.md",
-    "Mitschrift/S6 18.02.2024 Der Zweite Arbeitstag.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Nardo.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Marelli.md",
     "Pictures/Lilya.png",
-    "Pictures/Drest.png",
-    "Theorien/desktop.ini",
-    "Theorien",
-    "Untitled (69)/desktop.ini",
-    "Untitled (69)",
-    "Untitled (68)/desktop.ini",
-    "Untitled (68)",
-    "Untitled (67)/desktop.ini",
-    "Untitled (67)",
-    "Untitled (66)/desktop.ini",
-    "Untitled (66)"
+    "Pictures/Drest.png"
   ]
 }

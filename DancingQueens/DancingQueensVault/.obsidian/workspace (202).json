@@ -1,21 +1,24 @@
 {
   "main": {
-    "id": "548d8eef3ed305e3",
+    "id": "ba2a65c82f126a36",
     "type": "split",
     "children": [
       {
-        "id": "442e8a8af2f47550",
+        "id": "aade331e583f5e50",
         "type": "tabs",
         "children": [
           {
-            "id": "28cf392a8938e184",
+            "id": "f24c672062c76b88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
-                "mode": "source",
-                "source": false
+                "file": "Theorien/Hedononit.canvas",
+                "viewState": {
+                  "x": -330.5,
+                  "y": 305,
+                  "zoom": -0.5559511507808532
+                }
               }
             }
           }
@@ -25,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5238256303c438c2",
+    "id": "4e3e55cc2f747ecc",
     "type": "split",
     "children": [
       {
-        "id": "83b4193eb22074c4",
+        "id": "93be6990c86e977c",
         "type": "tabs",
         "children": [
           {
-            "id": "ef949f7633f08994",
+            "id": "401b3f3017675423",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +46,7 @@
             }
           },
           {
-            "id": "6a2041d539d4b564",
+            "id": "e64a14d2cac57274",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +61,7 @@
             }
           },
           {
-            "id": "2b9c09df3f98c328",
+            "id": "5aaefd4dce82efbe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +75,20 @@
     "width": 300
   },
   "right": {
-    "id": "be0279be569897ff",
+    "id": "798fda1ff1a0154f",
     "type": "split",
     "children": [
       {
-        "id": "7b35a045b6edf327",
+        "id": "9be417745a6c79bc",
         "type": "tabs",
         "children": [
           {
-            "id": "d5aaf053b76fcf7e",
+            "id": "72b9c77e9d9b3163",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
+                "file": "Theorien/Hedononit.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +100,19 @@
             }
           },
           {
-            "id": "d6283c75ad8dd54b",
+            "id": "e801a44203e82b7b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
+                "file": "Theorien/Hedononit.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "748a7fc44187e58b",
+            "id": "35d8cd0cb7361c41",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +123,12 @@
             }
           },
           {
-            "id": "9c4d1b151a711fec",
+            "id": "02a0a75135439134",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md"
+                "file": "Theorien/Hedononit.canvas"
               }
             }
           }
@@ -146,50 +149,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28cf392a8938e184",
+  "active": "f24c672062c76b88",
   "lastOpenFiles": [
-    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
-    "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
-    "Orte/Niffvild.md",
-    "Orte/Nordwind.md",
-    "Orte/Nolgandra.md",
-    "Orte/Aesley.md",
-    "Theorien/Hedononit.canvas",
-    "Mitschrift/Zeitstrahl.canvas",
-    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
-    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
-    "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Dana.md",
-    "Theorien/Siegel.canvas",
-    "Party/Nhelavyss.md",
-    "Siegel.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Phantom.md",
-    "Pictures/symbol.jpg",
-    "Gegenstände/Symbol der Kultisten.md",
-    "Gegenstände/Hedenolit.md",
-    "Mitschrift/S2 14.12.2023 Luftschiffverhandlungen.md",
-    "Orte/Phantoms Schiffe/Mels Schatten.md",
-    "Orte/Phantoms Schiffe/Phantoms Schiffe/Mels Schatten.md",
-    "Orte/Phantoms Schiffe/Luftakrobat.md",
-    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Lilya.md",
-    "Orte/Dubrok.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Organigramm Phantom.canvas",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Varvara.md",
-    "Mitschrift/S6 18.02.2024 Der Zweite Arbeitstag.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Nardo.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Marelli.md",
-    "Pictures/Lilya.png",
-    "Pictures/Drest.png",
-    "Theorien/desktop.ini",
-    "Theorien",
-    "Untitled (69)/desktop.ini",
-    "Untitled (69)",
-    "Untitled (68)/desktop.ini",
-    "Untitled (68)",
-    "Untitled (67)/desktop.ini",
-    "Untitled (67)",
-    "Untitled (66)/desktop.ini",
-    "Untitled (66)"
+    "Mitschrift/S9 17.03.2024 TODO.md",
+    "Theorien/Hedononit.canvas"
   ]
 }
