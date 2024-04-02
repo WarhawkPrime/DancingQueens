@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "548d8eef3ed305e3",
+    "id": "42baebfe50b3b90b",
     "type": "split",
     "children": [
       {
-        "id": "442e8a8af2f47550",
+        "id": "77b60d34cbc263a4",
         "type": "tabs",
         "children": [
           {
-            "id": "28cf392a8938e184",
+            "id": "6f7fdcb8fd6b759e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5238256303c438c2",
+    "id": "d687a98dac3c11dd",
     "type": "split",
     "children": [
       {
-        "id": "83b4193eb22074c4",
+        "id": "f2bde295cb07091f",
         "type": "tabs",
         "children": [
           {
-            "id": "ef949f7633f08994",
+            "id": "7112b0dab5dc33ba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "6a2041d539d4b564",
+            "id": "9c7aa034dc7dbc65",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "2b9c09df3f98c328",
+            "id": "236c4f37e477e3ed",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "be0279be569897ff",
+    "id": "0b5cf91f0b3d6fdf",
     "type": "split",
     "children": [
       {
-        "id": "7b35a045b6edf327",
+        "id": "938ef081186af3c4",
         "type": "tabs",
         "children": [
           {
-            "id": "d5aaf053b76fcf7e",
+            "id": "4e8f259596abe481",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "d6283c75ad8dd54b",
+            "id": "ec771fa6c6ab5f30",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "748a7fc44187e58b",
+            "id": "b251c7bec6404f29",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "9c4d1b151a711fec",
+            "id": "0781f1c2886e6042",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,50 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28cf392a8938e184",
+  "active": "6f7fdcb8fd6b759e",
   "lastOpenFiles": [
-    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
-    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
+    "Mitschrift/S9 17.03.2024 TODO.md",
     "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
-    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
-    "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
-    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
-    "Orte/Phantoms Schiffe/Mels Schatten.md",
-    "Mitschrift/Zeitstrahl.canvas",
-    "Mitschrift/S1 30.11.2023 The Beginning.md",
-    "Orte/Chaos.md",
-    "Orte/Nordwind.md",
-    "Orte/Niffvild.md",
-    "Orte/Elions.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Phantom.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Marelli.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die dritte Hand.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/darshana.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Dana.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Amandus.md",
-    "Pictures/symbol.jpg",
-    "Pictures/Lilya.png",
-    "Pictures/Drest.png",
-    "Theorien/Siegel.canvas",
-    "Mitschrift/S2 14.12.2023 Luftschiffverhandlungen.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Chike Vossen.md",
-    "Orte/Aesley.md",
-    "NPCs/Kistenträger/Dobrevs Bande.md",
-    "NPCs/Aysun Accardi.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Varvara.md",
-    "Gegenstände/Hedenolit.md",
-    "Orte/Phantoms Schiffe/Betsy.md",
+    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
     "Theorien/Hedononit.canvas",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Organigramm Phantom.canvas",
-    "Theorien/desktop.ini",
-    "Theorien",
-    "Untitled (69)/desktop.ini",
-    "Untitled (69)",
-    "Untitled (68)/desktop.ini",
-    "Untitled (68)",
-    "Untitled (67)/desktop.ini",
-    "Untitled (67)",
-    "Untitled (66)/desktop.ini",
-    "Untitled (66)"
+    "Mitschrift/S1 30.11.2023 The Beginning.md",
+    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
+    "Mitschrift/Zeitstrahl.canvas",
+    "Theorien/Siegel.canvas",
+    "Gegenstände/Symbol der Kultisten.md",
+    "Gegenstände/Hedenolit.md"
   ]
 }

@@ -20,7 +20,7 @@
 		{"id":"6dfeb16b7e2fc7b2","type":"text","text":"Das Siegel hätte großes Interesse ihn zu fiden","x":-1505,"y":948,"width":250,"height":60},
 		{"id":"75d1010941d1ffce","type":"text","text":"- Wissen von Skeates\n- Beide hätten ein Interesse und die Möglichkeit, Geschäfte zu machen.","x":-1583,"y":1080,"width":405,"height":112},
 		{"id":"464e40c933332b42","type":"file","file":"NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Kapitän Skeates.md","x":-1960,"y":953,"width":273,"height":50},
-		{"id":"d52e4ae3747976f2","x":-1725,"y":1240,"width":250,"height":60,"type":"text","text":"Evtl offenes Kopfgeld bei Piratenkapitäne"}
+		{"id":"d52e4ae3747976f2","type":"text","text":"Evtl offenes Kopfgeld bei Piratenkapitäne","x":-1725,"y":1240,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"13c0cbcfb322f971","fromNode":"44532feab6f157e3","fromSide":"right","toNode":"140ff608960b058f","toSide":"left"},

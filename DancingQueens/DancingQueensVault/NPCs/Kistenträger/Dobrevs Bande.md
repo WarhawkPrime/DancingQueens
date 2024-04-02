@@ -1,4 +1,4 @@
-. Anführer ist [[Dobrev (er)]]
+- Anführer ist [[Dobrev (er)]]
 - haben in der Nähe von [[Aesley]] gegraben und Kisten geschleppt
 
 ## Bande
