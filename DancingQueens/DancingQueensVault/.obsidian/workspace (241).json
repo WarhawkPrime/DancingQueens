@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "24a8148c6bbe613d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ce8b1eb48603933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41e4e8492d10e723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a8c0da487ae175d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4500178f5da69f65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54bd030a66b86413",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a7eeed35686bf04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d67dc1c594bee90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9276ce6c2afcf000",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d34bdb6250a7a5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c46c675473f382c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b60caa633d2b7c09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a6e60fc0418a5e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0fe718f82b308beb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "41e4e8492d10e723",
+  "lastOpenFiles": []
+}

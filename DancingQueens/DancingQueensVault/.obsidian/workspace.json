@@ -23,14 +23,11 @@
             "id": "fa565180072922af",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mitschrift/Zeitstrahl.canvas",
-                "viewState": {
-                  "x": -1529.4028765535272,
-                  "y": -610.3861544684592,
-                  "zoom": -0.04139163119693012
-                }
+                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitschrift/Zeitstrahl.canvas",
+                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mitschrift/Zeitstrahl.canvas",
+                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mitschrift/Zeitstrahl.canvas"
+                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md"
               }
             }
           }
@@ -164,7 +161,22 @@
   },
   "active": "fa565180072922af",
   "lastOpenFiles": [
+    "Mitschrift/S11 17.04.2024 Die Ecke.md",
     "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
+    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
+    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
+    "Valerian Lyon.md",
+    "Filme/Dream_2.mov",
+    "Filme/desktop.ini",
+    "Filme",
+    "Mitschrift/S6 18.02.2024 Der Zweite Arbeitstag.md",
+    "Tochter Suhls.md",
+    "TochterSuhls.jpg",
+    "Party/Kena.md",
+    "Party/Nhelavyss.md",
+    "Theorien/Siegel.canvas",
+    "Orte/Zepletor.md",
+    "Orte/Lycroes.md",
     "Mitschrift/Zeitstrahl.canvas",
     "Pictures/DrestKorb.png",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Varvara.md",
@@ -172,14 +184,10 @@
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Drest.md",
     "Orte/Drests Insel.md",
     "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
-    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
     "Party/Orfeo callis.md",
-    "Mitschrift/S6 18.02.2024 Der Zweite Arbeitstag.md",
     "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
-    "Party/Nhelavyss.md",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Lilya.md",
     "Party/Tuk Greengrass.md",
-    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
     "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
     "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
     "Orte/Phantoms Schiffe/Mels Schatten.md",
@@ -187,15 +195,9 @@
     "Orte/Chaos.md",
     "Orte/Nordwind.md",
     "Orte/Niffvild.md",
-    "Orte/Elions.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Phantom.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Marelli.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die dritte Hand.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/darshana.md",
     "Pictures/symbol.jpg",
     "Pictures/Lilya.png",
     "Pictures/Drest.png",
-    "Theorien/Siegel.canvas",
     "Theorien/Hedononit.canvas",
     "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Organigramm Phantom.canvas",
     "Theorien/desktop.ini",
@@ -204,9 +206,6 @@
     "Untitled (69)",
     "Untitled (68)/desktop.ini",
     "Untitled (68)",
-    "Untitled (67)/desktop.ini",
-    "Untitled (67)",
-    "Untitled (66)/desktop.ini",
-    "Untitled (66)"
+    "Untitled (67)/desktop.ini"
   ]
 }
