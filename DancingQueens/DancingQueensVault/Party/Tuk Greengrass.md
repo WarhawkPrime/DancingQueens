@@ -2,3 +2,4 @@
 - ist keine Schildkröte
 ## Aussehen
 Tuk ist 1,80m groß und wiegt 200kg. Seine Haut hat einen leicht grünlichen Ton und ist dank seines Alters und seiner vielen Reisen selbst für einen durchschnittlichen Tortle außergewöhnlich faltig. Insbesondere die Sorgenfalte zwischen seinen Augenbrauen scheint über die Jahre sehr tief geworden zu sein. Trotz seines für einen Tortle doch recht hohen Alters sind seine Augen wach und seine Muskeln deutlicher, als man es von ihm erwarten würde. Wenn er nicht gerade kämpft oder die Situation das Gegenteil erfordert ist sein Körper wegen seines Alters leicht gebeugt und seine Bewegungen vorsichtig und bedächtig, weshalb er von Fremden entgegen seiner jungen Jahre selten als Bedrohung wahrgenommen wird. Allerdings versprüht er die Autorität eines Mannes, der sehr alt ist und viel gesehen hat.
+- Gott Zylian 

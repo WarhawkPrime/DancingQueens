@@ -1,55 +1,39 @@
 {
   "main": {
-    "id": "548d8eef3ed305e3",
+    "id": "b453b1ca0eca55b3",
     "type": "split",
     "children": [
       {
-        "id": "442e8a8af2f47550",
+        "id": "b0cc12baa3714a1a",
         "type": "tabs",
         "children": [
           {
-            "id": "28cf392a8938e184",
+            "id": "a9e0c2883bf9aed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
+                "file": "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fa565180072922af",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mitschrift/Zeitstrahl.canvas",
-                "viewState": {
-                  "x": -1529.4028765535272,
-                  "y": -610.3861544684592,
-                  "zoom": -0.04139163119693012
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5238256303c438c2",
+    "id": "0223fb91b7d3c2e5",
     "type": "split",
     "children": [
       {
-        "id": "83b4193eb22074c4",
+        "id": "fd75933f26d333c1",
         "type": "tabs",
         "children": [
           {
-            "id": "ef949f7633f08994",
+            "id": "7c5f97d49e01c801",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +43,7 @@
             }
           },
           {
-            "id": "6a2041d539d4b564",
+            "id": "cdd3a54e271c1886",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,7 +58,7 @@
             }
           },
           {
-            "id": "2b9c09df3f98c328",
+            "id": "b2cbf333ac7d7801",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "be0279be569897ff",
+    "id": "5ade41df434893ad",
     "type": "split",
     "children": [
       {
-        "id": "7b35a045b6edf327",
+        "id": "60b479b4e84e10aa",
         "type": "tabs",
         "children": [
           {
-            "id": "d5aaf053b76fcf7e",
+            "id": "6f2ae3187e047a8b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitschrift/Zeitstrahl.canvas",
+                "file": "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,19 +97,19 @@
             }
           },
           {
-            "id": "d6283c75ad8dd54b",
+            "id": "a0d85ba57faadd0d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mitschrift/Zeitstrahl.canvas",
+                "file": "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "748a7fc44187e58b",
+            "id": "f675266ca191faf3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,12 +120,12 @@
             }
           },
           {
-            "id": "9c4d1b151a711fec",
+            "id": "7e84c9c2c161b121",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mitschrift/Zeitstrahl.canvas"
+                "file": "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md"
               }
             }
           }
@@ -162,51 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa565180072922af",
+  "active": "a9e0c2883bf9aed4",
   "lastOpenFiles": [
-    "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
-    "Mitschrift/Zeitstrahl.canvas",
-    "Pictures/DrestKorb.png",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Varvara.md",
-    "Pictures/varvara.png",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Drest.md",
-    "Orte/Drests Insel.md",
     "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
-    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
-    "Party/Orfeo callis.md",
-    "Mitschrift/S6 18.02.2024 Der Zweite Arbeitstag.md",
-    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
-    "Party/Nhelavyss.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Lilya.md",
-    "Party/Tuk Greengrass.md",
-    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
-    "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
-    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
-    "Orte/Phantoms Schiffe/Mels Schatten.md",
-    "Mitschrift/S1 30.11.2023 The Beginning.md",
-    "Orte/Chaos.md",
-    "Orte/Nordwind.md",
-    "Orte/Niffvild.md",
-    "Orte/Elions.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Phantom.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Marelli.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die dritte Hand.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/darshana.md",
-    "Pictures/symbol.jpg",
-    "Pictures/Lilya.png",
-    "Pictures/Drest.png",
-    "Theorien/Siegel.canvas",
-    "Theorien/Hedononit.canvas",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Organigramm Phantom.canvas",
-    "Theorien/desktop.ini",
-    "Theorien",
-    "Untitled (69)/desktop.ini",
-    "Untitled (69)",
-    "Untitled (68)/desktop.ini",
-    "Untitled (68)",
-    "Untitled (67)/desktop.ini",
-    "Untitled (67)",
-    "Untitled (66)/desktop.ini",
-    "Untitled (66)"
+    "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
+    "S10 07.04.20204 Orpheo Jones und der Tempel des.md",
+    "Untitled.md"
   ]
 }

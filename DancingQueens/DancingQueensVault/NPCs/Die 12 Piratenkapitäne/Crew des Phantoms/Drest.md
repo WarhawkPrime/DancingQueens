@@ -1,5 +1,6 @@
 #phantom 
 ![[Drest.png]]
+![[DrestKorb.png]]
 - dey (they/them)
 - hat gute Menschenkenntnisse. 
 - habe eine gute Menschenkenntniss, zu der wir evtl gebracht werden sollen. Heißt auf Nefti "verborgen", adjektiv
