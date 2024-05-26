@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "548d8eef3ed305e3",
+    "id": "48a04b999d3bd3f6",
     "type": "split",
     "children": [
       {
-        "id": "442e8a8af2f47550",
+        "id": "34db0fb5273910dd",
         "type": "tabs",
         "children": [
           {
-            "id": "28cf392a8938e184",
+            "id": "7417d5f0f39fd229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa565180072922af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md",
+                "file": "Orte/Jahrhundertbaum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5238256303c438c2",
+    "id": "fbe58a60d6be2abe",
     "type": "split",
     "children": [
       {
-        "id": "83b4193eb22074c4",
+        "id": "72e06713948293ec",
         "type": "tabs",
         "children": [
           {
-            "id": "ef949f7633f08994",
+            "id": "fbe6d9a871956792",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "6a2041d539d4b564",
+            "id": "165bce5da9e15885",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "2b9c09df3f98c328",
+            "id": "14b49077c163623d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "be0279be569897ff",
+    "id": "b1fef59516777e7c",
     "type": "split",
     "children": [
       {
-        "id": "7b35a045b6edf327",
+        "id": "ce588c4382b522b1",
         "type": "tabs",
         "children": [
           {
-            "id": "d5aaf053b76fcf7e",
+            "id": "224172948fb5ac06",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md",
+                "file": "Orte/Jahrhundertbaum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "d6283c75ad8dd54b",
+            "id": "5aa0dc7744a9206c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md",
+                "file": "Orte/Jahrhundertbaum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "748a7fc44187e58b",
+            "id": "925333122b07cde1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "9c4d1b151a711fec",
+            "id": "314e4489b39d71fe",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md"
+                "file": "Orte/Jahrhundertbaum.md"
               }
             }
           }
@@ -159,53 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa565180072922af",
+  "active": "7417d5f0f39fd229",
   "lastOpenFiles": [
-    "Mitschrift/S11 17.04.2024 Die Ecke.md",
-    "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
-    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
-    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
+    "Götter/Selune.md",
+    "Götter/Aulian.md",
+    "Götter/Cylian.md",
+    "Götter/Mel.md",
+    "NPCs/Die 12 Piratenkapitäne/Der Rat der 12.md",
     "Valerian Lyon.md",
-    "Filme/Dream_2.mov",
-    "Filme/desktop.ini",
-    "Filme",
-    "Mitschrift/S6 18.02.2024 Der Zweite Arbeitstag.md",
     "Tochter Suhls.md",
     "TochterSuhls.jpg",
-    "Party/Kena.md",
-    "Party/Nhelavyss.md",
     "Theorien/Siegel.canvas",
-    "Orte/Zepletor.md",
-    "Orte/Lycroes.md",
-    "Mitschrift/Zeitstrahl.canvas",
-    "Pictures/DrestKorb.png",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Varvara.md",
+    "Theorien/Hedononit.canvas",
     "Pictures/varvara.png",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Drest.md",
-    "Orte/Drests Insel.md",
-    "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
-    "Party/Orfeo callis.md",
-    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Lilya.md",
-    "Party/Tuk Greengrass.md",
-    "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
-    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
-    "Orte/Phantoms Schiffe/Mels Schatten.md",
-    "Mitschrift/S1 30.11.2023 The Beginning.md",
-    "Orte/Chaos.md",
-    "Orte/Nordwind.md",
-    "Orte/Niffvild.md",
     "Pictures/symbol.jpg",
     "Pictures/Lilya.png",
+    "Pictures/DrestKorb.png",
     "Pictures/Drest.png",
-    "Theorien/Hedononit.canvas",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Organigramm Phantom.canvas",
-    "Theorien/desktop.ini",
-    "Theorien",
-    "Untitled (69)/desktop.ini",
-    "Untitled (69)",
-    "Untitled (68)/desktop.ini",
-    "Untitled (68)",
-    "Untitled (67)/desktop.ini"
+    "Orte/lycroes.md",
+    "Orte/Knochen und Geist.md",
+    "Orte/Jahrhundertbaum.md",
+    "Orte/Vetras.md",
+    "Orte/Xela.md",
+    "Orte/zepletor.md",
+    "Party/Nhelavyss.md",
+    "Party/Tuk Greengrass.md",
+    "Party/Kena.md",
+    "Party/Orfeo callis.md",
+    "Orte/Phantoms Schiffe/Betsy.md"
   ]
 }
