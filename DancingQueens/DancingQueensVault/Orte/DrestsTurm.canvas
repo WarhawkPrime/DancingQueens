@@ -19,7 +19,9 @@
 		{"id":"21a339ec2d19ad26","type":"text","text":"Foyer, Drests Sammlung","x":40,"y":180,"width":250,"height":60},
 		{"id":"b25259399795f5f3","type":"text","text":"Labore","x":40,"y":-295,"width":250,"height":50},
 		{"id":"00fefc19ab7913b6","type":"text","text":"0. Stock","x":-240,"y":260,"width":250,"height":60},
-		{"id":"f4518f5ae1791955","type":"text","text":"Esszimmer","x":40,"y":260,"width":250,"height":60}
+		{"id":"f4518f5ae1791955","type":"text","text":"Esszimmer","x":40,"y":260,"width":250,"height":60},
+		{"id":"7fc5bf54df91afea","type":"text","text":"-1 - -9 Keller","x":-240,"y":340,"width":250,"height":60},
+		{"id":"5fd974298151b081","type":"text","text":"Keller und Zugang zum Kern","x":40,"y":340,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"ec2371f1c9c37ea4","fromNode":"735637918e4af244","fromSide":"right","toNode":"2939cdba7d6c2f65","toSide":"left"},
@@ -40,6 +42,8 @@
 		{"id":"18ebd958432bba24","fromNode":"e336f6e300f85fbd","fromSide":"right","toNode":"897aad08d57da6f9","toSide":"left"},
 		{"id":"0d9951fe8cb644aa","fromNode":"5a4cc168e23d530e","fromSide":"right","toNode":"21a339ec2d19ad26","toSide":"left"},
 		{"id":"b06d4ba430498ceb","fromNode":"00fefc19ab7913b6","fromSide":"top","toNode":"5a4cc168e23d530e","toSide":"bottom"},
-		{"id":"b0c5f37847559b99","fromNode":"00fefc19ab7913b6","fromSide":"right","toNode":"f4518f5ae1791955","toSide":"left"}
+		{"id":"b0c5f37847559b99","fromNode":"00fefc19ab7913b6","fromSide":"right","toNode":"f4518f5ae1791955","toSide":"left"},
+		{"id":"266d666440385fd7","fromNode":"00fefc19ab7913b6","fromSide":"bottom","toNode":"7fc5bf54df91afea","toSide":"top"},
+		{"id":"f7ac7d91788b3660","fromNode":"7fc5bf54df91afea","fromSide":"right","toNode":"5fd974298151b081","toSide":"left"}
 	]
 }

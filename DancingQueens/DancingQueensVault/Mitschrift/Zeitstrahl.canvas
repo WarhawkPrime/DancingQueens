@@ -22,7 +22,8 @@
 		{"id":"b5776071703ce332","type":"text","text":"17. Selune","x":-1304,"y":200,"width":250,"height":60},
 		{"id":"52cdd608f05bc6b0","type":"text","text":"Orfeo versucht Trauma zu verarbeiten, Tuk und Kena streiten sich, Nhelavyss träumt schlecht. [[Lilya]] gehts unverändert [[S13 01.06.2024 Erholung]]","x":-1920,"y":120,"width":580,"height":80},
 		{"id":"67eba023fb983492","type":"text","text":"Nhel antwortet dem Sending Stone, redet mit Drest über das Amulett\nOrf schaut sich die gefundenen Sachen aus der Ruine an und redet mit der dritten Hand über das Gedichtsbuch\nKena versucht mit Trauma klarzukommen\n[[S13 01.06.2024 Erholung]]","x":-1920,"y":230,"width":580,"height":150},
-		{"id":"76597c904748f887","type":"text","text":"Vollmond","x":-1054,"y":-680,"width":150,"height":60}
+		{"id":"76597c904748f887","type":"text","text":"Vollmond","x":-1054,"y":-680,"width":150,"height":60},
+		{"id":"df474dee12c8013c","x":-1054,"y":135,"width":108,"height":50,"type":"text","text":"1866"}
 	],
 	"edges":[
 		{"id":"416b66cac0e7f612","fromNode":"b1d6b9a94af90b1d","fromSide":"left","toNode":"028331dbdd9df29f","toSide":"right"},
@@ -46,6 +47,7 @@
 		{"id":"a0e3de06ddfc97dd","fromNode":"76597c904748f887","fromSide":"left","toNode":"2a6e51a41064e7cf","toSide":"right"},
 		{"id":"97bfbdc46d470d0c","fromNode":"72700073215a6b3d","fromSide":"left","toNode":"52cdd608f05bc6b0","toSide":"right"},
 		{"id":"7e88afc904b5cd2e","fromNode":"72700073215a6b3d","fromSide":"bottom","toNode":"b5776071703ce332","toSide":"top"},
-		{"id":"7bcb3e8b71927dd9","fromNode":"b5776071703ce332","fromSide":"left","toNode":"67eba023fb983492","toSide":"right"}
+		{"id":"7bcb3e8b71927dd9","fromNode":"b5776071703ce332","fromSide":"left","toNode":"67eba023fb983492","toSide":"right"},
+		{"id":"6a02b49bb24e36a9","fromNode":"b5776071703ce332","fromSide":"right","toNode":"df474dee12c8013c","toSide":"left"}
 	]
 }
