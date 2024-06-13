@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "2ab9cb5f7b76203d",
+    "type": "split",
+    "children": [
+      {
+        "id": "000a200ee164073c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dba485a81f44a8c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd7af8fd944d542c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f39d0ea00253a3c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c21ab277e4b11635",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e67a7ac6867e30a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cb5de4835aaca1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9bfb46c1009f1324",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa6249c52d943a44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ecd0f69dc14a3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8632ab496bbae534",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d618f2c52f8e631",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2742e2977daf4f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dba485a81f44a8c8",
+  "lastOpenFiles": [
+    "Party/Nhelavyss Ilphelnodel.md",
+    "Mitschrift/S12 26.05.2024 Kidnapping.md",
+    "Mitschrift/Untitled.md"
+  ]
+}

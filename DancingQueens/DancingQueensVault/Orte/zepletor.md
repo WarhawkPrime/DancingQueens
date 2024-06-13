@@ -1,7 +1,7 @@
 #location 
 - Herkunftsort von [[Orfeo callis]]
 - Hohe häuser, akademien, theater, Aufzüge
-- liegt auf dem Kontinent [[Lycroes]]
+- liegt auf dem Kontinent [[Lycros]]
 - Bessere Baukunst als Elfen und Zwerge heutzutage
 - Stand in einer schönen Landschaft
 - Hat eine Bahn

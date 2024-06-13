@@ -3,7 +3,7 @@
 - genau genommen 28 Jahre
 - Kommt aus [[Zepletor]]
 - Wirkt fehl am Platz im Hafen
-- Kommt aus [[Lycroes]]
+- Kommt aus [[Lycros]]
 - etwas lichtsensibel
 - besitzt ein Tatoo auf dem rechten Schlüsselbein, welches in der Sprache Nefteki die Zahl 12 zeigt.
 - letzte Erinnerung: kann sich an ein Erdbeben, Grollen, Kopfschmerzen erinnern. Irgendwas sei Auseinandergebrochen.

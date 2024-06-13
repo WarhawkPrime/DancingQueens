@@ -1,0 +1,2 @@
+- Ehemaliger Arbeitskollege von [[Orfeo callis]]
+- Ist in den Ruinen von 

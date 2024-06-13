@@ -1,2 +1,2 @@
 #god
-- [[Nhelavyss]] ist eine Anhängerin von ihr
+- [[Nhelavyss Ilphelnodel]] ist eine Anhängerin von ihr

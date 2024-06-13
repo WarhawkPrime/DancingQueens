@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
+                "file": "Orte/Niffvild.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md",
+                "file": "Mitschrift/S13 01.06.2024 Erholung.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc32e65be2e9d2d7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mitschrift/Zeitstrahl.canvas",
+                "viewState": {
+                  "x": -1051.8624429453696,
+                  "y": -373.6226076996395,
+                  "zoom": -0.8533192830443583
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mond",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 414.5
   },
   "right": {
     "id": "be0279be569897ff",
@@ -98,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md",
+                "file": "Mitschrift/Zeitstrahl.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md",
+                "file": "Mitschrift/Zeitstrahl.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mitschrift/S11 17.04.2024 Die Ecke.md"
+                "file": "Mitschrift/Zeitstrahl.canvas"
               }
             }
           }
@@ -159,42 +174,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa565180072922af",
+  "active": "dc32e65be2e9d2d7",
   "lastOpenFiles": [
-    "Mitschrift/S11 17.04.2024 Die Ecke.md",
-    "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
-    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
+    "Mitschrift/S13 01.06.2024 Erholung.md",
+    "Mitschrift/Zeitstrahl.canvas",
+    "Orte/DrestsTurm.canvas",
+    "Orte/Drests Insel.md",
     "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
-    "Valerian Lyon.md",
+    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
+    "Mitschrift/S12 26.05.2024 Kidnapping.md",
+    "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
+    "Mitschrift/S6 18.02.2024 Der Zweite Arbeitstag.md",
+    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
+    "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
+    "Orte/Untitled.md",
+    "Mitschrift/S11 17.04.2024 Die Ecke.md",
+    "Monologe/Orfeo Flashback Tod.md",
+    "Orte/Mevror.md",
+    "Monologe/Kenas Seeszene.md",
+    "Monologe/Orfeo Schädelszene.md",
+    "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
+    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
+    "Melavskitspeicher.md",
+    "Stevjan Bret.md",
+    "Bag of Holding.md",
+    "2024-06-01.md",
+    "Monologe/desktop.ini",
+    "Monologe",
+    "Orte/Niffvild.md",
+    "Mitschrift/S1 30.11.2023 The Beginning.md",
+    "Orte/Mylanre.md",
+    "Orte/Lycros.md",
+    "Untitled.canvas",
+    "Pictures/TochterSuhls.jpg",
     "Filme/Dream_2.mov",
     "Filme/desktop.ini",
     "Filme",
-    "Mitschrift/S6 18.02.2024 Der Zweite Arbeitstag.md",
-    "Tochter Suhls.md",
-    "TochterSuhls.jpg",
-    "Party/Kena.md",
-    "Party/Nhelavyss.md",
     "Theorien/Siegel.canvas",
-    "Orte/Zepletor.md",
-    "Orte/Lycroes.md",
-    "Mitschrift/Zeitstrahl.canvas",
     "Pictures/DrestKorb.png",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Varvara.md",
     "Pictures/varvara.png",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Drest.md",
-    "Orte/Drests Insel.md",
-    "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
-    "Party/Orfeo callis.md",
-    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
-    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Lilya.md",
-    "Party/Tuk Greengrass.md",
-    "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
-    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
-    "Orte/Phantoms Schiffe/Mels Schatten.md",
-    "Mitschrift/S1 30.11.2023 The Beginning.md",
-    "Orte/Chaos.md",
-    "Orte/Nordwind.md",
-    "Orte/Niffvild.md",
     "Pictures/symbol.jpg",
     "Pictures/Lilya.png",
     "Pictures/Drest.png",
@@ -204,8 +222,6 @@
     "Theorien",
     "Untitled (69)/desktop.ini",
     "Untitled (69)",
-    "Untitled (68)/desktop.ini",
-    "Untitled (68)",
-    "Untitled (67)/desktop.ini"
+    "Untitled (68)/desktop.ini"
   ]
 }

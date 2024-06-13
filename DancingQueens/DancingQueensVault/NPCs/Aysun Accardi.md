@@ -1,1 +1,3 @@
 - Könnte der Name eines Magier sein, der vor langer Zeit ein Herrschers dieser Gegend war
+- Ehemaliger Besitzer des [[AmulettDesEldrichBlasts]]
+- 

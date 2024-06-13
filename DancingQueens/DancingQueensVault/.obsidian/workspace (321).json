@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "30ada3a6c7d6e4d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f8a7dcb80cb3bf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f5445f389836e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mitschrift/S12 26.05.2024 Kidnapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddfe1a4d92fdbe87",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac8b914413008092",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "363559446f56daca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e825163bd342ebc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f60abfea922f45ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24f143c8685cfd5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c783d21c437a7437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b6d589f4663b93f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mitschrift/S12 26.05.2024 Kidnapping.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b429d1fd6ae8e1d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mitschrift/S12 26.05.2024 Kidnapping.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb76a7be257d018d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee2cb2bcf95ce31b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mitschrift/S12 26.05.2024 Kidnapping.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1f5445f389836e22",
+  "lastOpenFiles": [
+    "Party/Tuk Greengrass.md",
+    "Party/Orfeo callis.md",
+    "Party/Nhelavyss Ilphelnodel.md",
+    "Party/Kena.md",
+    "Pictures/varvara.png",
+    "Pictures/symbol.jpg",
+    "Pictures/Lilya.png",
+    "Pictures/DrestKorb.png",
+    "Pictures/Drest.png",
+    "Theorien/Hedononit.canvas",
+    "Theorien/Siegel.canvas"
+  ]
+}

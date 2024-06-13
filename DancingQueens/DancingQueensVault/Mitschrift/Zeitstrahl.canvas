@@ -14,8 +14,15 @@
 		{"id":"f3080ef4594003a2","type":"text","text":"Ankuft auf [[Drests Insel]], [[Kena]] bekommt einen \"Sonnendolch\"\n[[S7 25.02.2024 Der erste Auftrag]]","x":-1874,"y":-554,"width":494,"height":60},
 		{"id":"50584b380cdc2392","type":"text","text":"15. Selune","x":-1304,"y":-494,"width":250,"height":60},
 		{"id":"686d94c56ddf7415","type":"text","text":"Wir führen ein Therapiegespräch, wir wollen [[Lilya]] vom Fluch befreien.\n[[S8 10.03.2024 Therapiesitzung]]","x":-1920,"y":-464,"width":580,"height":60},
-		{"id":"8222972ab310f7a9","type":"text","text":"Am Abend kommen wir am Grab von [[Aysun Accardi]] an.\n[[S9 17.03.2024 Alltag und Abenteuer]]","x":-1797,"y":-380,"width":457,"height":60},
-		{"id":"45fa687732762034","x":-1797,"y":-300,"width":457,"height":100,"type":"text","text":"Wir setzen dem Schädel das zweite Auge ein, [[Nhelavyss]] hat ein Amulett bekommen was ihr Kräfte gibt und wir finden einen Gang von der Stadt [[Zepletor]]"}
+		{"id":"8222972ab310f7a9","type":"text","text":"Am Abend kommen wir am Grab von [[Aysun Accardi]] an.\n[[S9 17.03.2024 Alltag und Abenteuer]]","x":-1920,"y":-380,"width":580,"height":60},
+		{"id":"45fa687732762034","type":"text","text":"Wir setzen dem Schädel das zweite Auge ein, [[Nhelavyss Ilphelnodel]] hat ein Amulett bekommen was ihr Kräfte gibt und wir finden einen Gang von der Stadt [[Zepletor]]\n[[S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi]]","x":-1920,"y":-300,"width":580,"height":120},
+		{"id":"a8fb56dfd47fa86f","type":"text","text":"Wir finden den alten Arbeitsort von [[Orfeo callis]], er erlebt auch seinen Tod nochmal neu, wir finden die Überreste von [[Valerian Lyon]], Orfeo und Kena kommen sich näher\n[[S11 17.04.2024 Die Ecke]]","x":-1920,"y":-160,"width":580,"height":120},
+		{"id":"debb242d5fcd09f4","type":"text","text":"Eine [[Tochter Suhls]] versucht uns zu Kidnappen, jeder hat Kopfgeld, [[Lilya]] hat überlebt, ist aber nicht geheilt, wir sind zurück bei [[Drest]].\n[[S12 26.05.2024 Kidnapping]]","x":-1920,"y":-10,"width":580,"height":90},
+		{"id":"72700073215a6b3d","type":"text","text":"16. Selune","x":-1304,"y":-40,"width":250,"height":60},
+		{"id":"b5776071703ce332","type":"text","text":"17. Selune","x":-1304,"y":200,"width":250,"height":60},
+		{"id":"52cdd608f05bc6b0","type":"text","text":"Orfeo versucht Trauma zu verarbeiten, Tuk und Kena streiten sich, Nhelavyss träumt schlecht. [[Lilya]] gehts unverändert [[S13 01.06.2024 Erholung]]","x":-1920,"y":120,"width":580,"height":80},
+		{"id":"67eba023fb983492","type":"text","text":"Nhel antwortet dem Sending Stone, redet mit Drest über das Amulett\nOrf schaut sich die gefundenen Sachen aus der Ruine an und redet mit der dritten Hand über das Gedichtsbuch\nKena versucht mit Trauma klarzukommen\n[[S13 01.06.2024 Erholung]]","x":-1920,"y":230,"width":580,"height":150},
+		{"id":"76597c904748f887","type":"text","text":"Vollmond","x":-1054,"y":-680,"width":150,"height":60}
 	],
 	"edges":[
 		{"id":"416b66cac0e7f612","fromNode":"b1d6b9a94af90b1d","fromSide":"left","toNode":"028331dbdd9df29f","toSide":"right"},
@@ -32,6 +39,13 @@
 		{"id":"7e3b96b4499e94b0","fromNode":"b3bcb97be716c448","fromSide":"bottom","toNode":"50584b380cdc2392","toSide":"top"},
 		{"id":"753d7cc8d3a0a642","fromNode":"50584b380cdc2392","fromSide":"left","toNode":"686d94c56ddf7415","toSide":"right"},
 		{"id":"4a3aaf555269b9f1","fromNode":"50584b380cdc2392","fromSide":"left","toNode":"8222972ab310f7a9","toSide":"right"},
-		{"id":"44ea9e769abd798c","fromNode":"50584b380cdc2392","fromSide":"left","toNode":"45fa687732762034","toSide":"right"}
+		{"id":"44ea9e769abd798c","fromNode":"50584b380cdc2392","fromSide":"left","toNode":"45fa687732762034","toSide":"right"},
+		{"id":"ae29105e2f6302da","fromNode":"50584b380cdc2392","fromSide":"left","toNode":"a8fb56dfd47fa86f","toSide":"right"},
+		{"id":"d24e5f45a5529d6b","fromNode":"50584b380cdc2392","fromSide":"bottom","toNode":"72700073215a6b3d","toSide":"top"},
+		{"id":"847ee473db13252d","fromNode":"72700073215a6b3d","fromSide":"left","toNode":"debb242d5fcd09f4","toSide":"right"},
+		{"id":"a0e3de06ddfc97dd","fromNode":"76597c904748f887","fromSide":"left","toNode":"2a6e51a41064e7cf","toSide":"right"},
+		{"id":"97bfbdc46d470d0c","fromNode":"72700073215a6b3d","fromSide":"left","toNode":"52cdd608f05bc6b0","toSide":"right"},
+		{"id":"7e88afc904b5cd2e","fromNode":"72700073215a6b3d","fromSide":"bottom","toNode":"b5776071703ce332","toSide":"top"},
+		{"id":"7bcb3e8b71927dd9","fromNode":"b5776071703ce332","fromSide":"left","toNode":"67eba023fb983492","toSide":"right"}
 	]
 }

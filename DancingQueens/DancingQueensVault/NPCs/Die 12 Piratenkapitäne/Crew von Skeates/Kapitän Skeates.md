@@ -1,5 +1,5 @@
 #skeates
-- Typ mit ledrigen Hut und breiter Kremlpe steht vor? Wirkt fehl am Platz, Twink.
+- Typ mit ledrigen Hut und breiter Kremlpe steht vor? 
 - Kapitän der [[Donnerritt]]
 - eine der 12.
 - haben in der Nähe [[Aesley]] ein Handel mit ??? gemacht
