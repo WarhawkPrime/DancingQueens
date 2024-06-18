@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mitschrift/S14 13.06.2024.md",
+                "file": "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mond",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitschrift/S14 13.06.2024.md",
+                "file": "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mitschrift/S14 13.06.2024.md",
+                "file": "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mitschrift/S14 13.06.2024.md"
+                "file": "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md"
               }
             }
           }
@@ -188,34 +188,35 @@
   },
   "active": "9dd3b9602e0b0ae9",
   "lastOpenFiles": [
-    "Orte/DrestsTurm.canvas",
-    "Mitschrift/S14 13.06.2024.md",
-    "Party/Nhelavyss Ilphelnodel.md",
-    "Mitschrift/S13 01.06.2024 Erholung.md",
-    "Mitschrift/S6 18.02.2024 Der Zweite Arbeitstag.md",
-    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
-    "Mitschrift/Zeitstrahl.canvas",
-    "Mitschrift/S8 10.03.2024 Therapiesitzung.md",
-    "Mitschrift/S1 30.11.2023 The Beginning.md",
-    "Mitschrift/S2 14.12.2023 Luftschiffverhandlungen.md",
     "Mitschrift/S4 14.01.2024 Freiwillige Anstellung.md",
-    "Mitschrift/S3 30.12.2023 Gezwungener Ausbruch.md",
-    "Theorien/Siegel.canvas",
-    "Orte/Drests Insel.md",
-    "Mitschrift/S7 25.02.2024 Der erste Auftrag.md",
-    "Mitschrift/S12 26.05.2024 Kidnapping.md",
-    "Mitschrift/S9 17.03.2024 Alltag und Abenteuer.md",
-    "Mitschrift/S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi.md",
-    "Orte/Untitled.md",
-    "Mitschrift/S11 17.04.2024 Die Ecke.md",
-    "Monologe/Orfeo Flashback Tod.md",
-    "Orte/Mevror.md",
-    "Monologe/Kenas Seeszene.md",
-    "Monologe/Orfeo Schädelszene.md",
+    "Mitschrift/S5 04.02.2024 Der erste Arbeitstag.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Parcey.md",
+    "NPCs/Tochter Suhls.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Lilya.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Drest.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Fensterputzer.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Marcelli.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Sanjeev.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Dana.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Terell.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Phantom.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Nardo.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Drusar.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Chike Vossen.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Darshana.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Varavara.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew des Phantoms/Die dritte Hand oder Lette.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Jezebel.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Anselm.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Willard.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Vasilija.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Melete.md",
+    "NPCs/Die 12 Piratenkapitäne/Crew von Skeates/Kapitän Skeates.md",
+    "Orte/Niffvild.md",
     "Melavskitspeicher.md",
-    "Stevjan Bret.md",
-    "Bag of Holding.md",
-    "2024-06-01.md",
+    "Mitschrift/Zeitstrahl.canvas",
+    "Orte/DrestsTurm.canvas",
+    "Theorien/Siegel.canvas",
     "Monologe/desktop.ini",
     "Monologe",
     "Untitled.canvas",

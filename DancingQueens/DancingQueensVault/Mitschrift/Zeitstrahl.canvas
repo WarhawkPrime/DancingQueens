@@ -7,7 +7,7 @@
 		{"id":"13103b9e0f35221b","type":"text","text":"8. Selune","x":-1429,"y":-780,"width":250,"height":60},
 		{"id":"2a6e51a41064e7cf","type":"text","text":"12. Selune","x":-1380,"y":-680,"width":250,"height":60},
 		{"id":"b3bcb97be716c448","type":"text","text":"14. Selune","x":-1340,"y":-584,"width":250,"height":60},
-		{"id":"6981187144d1d9ed","type":"text","text":"Uns wird mehr Verantwortung gegeben, [[Orfeo callis]] wird von [[Varvara]] untersucht\n[[S6 18.02.2024 Der Zweite Arbeitstag]]","x":-2070,"y":-644,"width":641,"height":60},
+		{"id":"6981187144d1d9ed","type":"text","text":"Uns wird mehr Verantwortung gegeben, [[Orfeo callis]] wird von [[Varavara]] untersucht\n[[S6 18.02.2024 Der Zweite Arbeitstag]]","x":-2070,"y":-644,"width":641,"height":60},
 		{"id":"4bb9935c705bc1c6","type":"text","text":"Wir erklären uns für den gescheiterten Test, [[Kena]] untersucht [[Orfeo callis]]\n[[S5 04.02.2024 Der erste Arbeitstag]]","x":-2060,"y":-740,"width":580,"height":60},
 		{"id":"801cf0c920ddbff6","type":"text","text":"Wir fliehen vor [[Kapitän Skeates]]\n[[S3 30.12.2023 Gezwungener Ausbruch]]","x":-1874,"y":-910,"width":354,"height":60},
 		{"id":"028331dbdd9df29f","type":"text","text":"Ankuft beim [[Phantom]],\n[[S4 14.01.2024 Freiwillige Anstellung]]","x":-1874,"y":-840,"width":354,"height":60},
@@ -17,13 +17,14 @@
 		{"id":"8222972ab310f7a9","type":"text","text":"Am Abend kommen wir am Grab von [[Aysun Accardi]] an.\n[[S9 17.03.2024 Alltag und Abenteuer]]","x":-1920,"y":-380,"width":580,"height":60},
 		{"id":"45fa687732762034","type":"text","text":"Wir setzen dem Schädel das zweite Auge ein, [[Nhelavyss Ilphelnodel]] hat ein Amulett bekommen was ihr Kräfte gibt und wir finden einen Gang von der Stadt [[Zepletor]]\n[[S10 07.04.20204 Orpheo Jones und der Tempel des Aysun Accardi]]","x":-1920,"y":-300,"width":580,"height":120},
 		{"id":"a8fb56dfd47fa86f","type":"text","text":"Wir finden den alten Arbeitsort von [[Orfeo callis]], er erlebt auch seinen Tod nochmal neu, wir finden die Überreste von [[Valerian Lyon]], Orfeo und Kena kommen sich näher\n[[S11 17.04.2024 Die Ecke]]","x":-1920,"y":-160,"width":580,"height":120},
-		{"id":"debb242d5fcd09f4","type":"text","text":"Eine [[Tochter Suhls]] versucht uns zu Kidnappen, jeder hat Kopfgeld, [[Lilya]] hat überlebt, ist aber nicht geheilt, wir sind zurück bei [[Drest]].\n[[S12 26.05.2024 Kidnapping]]","x":-1920,"y":-10,"width":580,"height":90},
-		{"id":"72700073215a6b3d","type":"text","text":"16. Selune","x":-1304,"y":-40,"width":250,"height":60},
-		{"id":"b5776071703ce332","type":"text","text":"17. Selune","x":-1304,"y":200,"width":250,"height":60},
-		{"id":"52cdd608f05bc6b0","type":"text","text":"Orfeo versucht Trauma zu verarbeiten, Tuk und Kena streiten sich, Nhelavyss träumt schlecht. [[Lilya]] gehts unverändert [[S13 01.06.2024 Erholung]]","x":-1920,"y":120,"width":580,"height":80},
-		{"id":"67eba023fb983492","type":"text","text":"Nhel antwortet dem Sending Stone, redet mit Drest über das Amulett\nOrf schaut sich die gefundenen Sachen aus der Ruine an und redet mit der dritten Hand über das Gedichtsbuch\nKena versucht mit Trauma klarzukommen\n[[S13 01.06.2024 Erholung]]","x":-1920,"y":230,"width":580,"height":150},
 		{"id":"76597c904748f887","type":"text","text":"Vollmond","x":-1054,"y":-680,"width":150,"height":60},
-		{"id":"df474dee12c8013c","x":-1054,"y":135,"width":108,"height":50,"type":"text","text":"1866"}
+		{"id":"debb242d5fcd09f4","type":"text","text":"Eine [[Tochter Suhls]] versucht uns zu Kidnappen, jeder hat Kopfgeld, [[Lilya]] hat überlebt, ist aber nicht geheilt, wir sind zurück bei [[Drest]].\n[[S12 26.05.2024 Kidnapping]]","x":-1884,"y":-10,"width":580,"height":90},
+		{"id":"52cdd608f05bc6b0","type":"text","text":"Orfeo versucht Trauma zu verarbeiten, Tuk und Kena streiten sich, Nhelavyss träumt schlecht. [[Lilya]] gehts unverändert [[S13 01.06.2024 Erholung]]","x":-1884,"y":120,"width":580,"height":80},
+		{"id":"72700073215a6b3d","type":"text","text":"16. Selune","x":-1268,"y":-40,"width":250,"height":60},
+		{"id":"67eba023fb983492","type":"text","text":"Nhel antwortet dem Sending Stone, redet mit Drest über das Amulett\nOrf schaut sich die gefundenen Sachen aus der Ruine an und redet mit der dritten Hand über das Gedichtsbuch\nKena versucht mit Trauma klarzukommen\n[[S13 01.06.2024 Erholung]]","x":-1848,"y":230,"width":580,"height":150},
+		{"id":"46a34fd5fb1cdf6c","type":"text","text":"Orfeo gesteht der Party, was alles mit ihm passiert ist, Nhel pastelt an ihrem Mond, Wir fangen mit der Geisterjagd auf Valerian an.\n[[S14 13.06.2024 Geständnisse und Monde]]","x":-1848,"y":420,"width":580,"height":90},
+		{"id":"b5776071703ce332","type":"text","text":"17. Selune","x":-1232,"y":200,"width":250,"height":60},
+		{"id":"df474dee12c8013c","type":"text","text":"1866","x":-982,"y":135,"width":108,"height":50}
 	],
 	"edges":[
 		{"id":"416b66cac0e7f612","fromNode":"b1d6b9a94af90b1d","fromSide":"left","toNode":"028331dbdd9df29f","toSide":"right"},
@@ -48,6 +49,7 @@
 		{"id":"97bfbdc46d470d0c","fromNode":"72700073215a6b3d","fromSide":"left","toNode":"52cdd608f05bc6b0","toSide":"right"},
 		{"id":"7e88afc904b5cd2e","fromNode":"72700073215a6b3d","fromSide":"bottom","toNode":"b5776071703ce332","toSide":"top"},
 		{"id":"7bcb3e8b71927dd9","fromNode":"b5776071703ce332","fromSide":"left","toNode":"67eba023fb983492","toSide":"right"},
-		{"id":"6a02b49bb24e36a9","fromNode":"b5776071703ce332","fromSide":"right","toNode":"df474dee12c8013c","toSide":"left"}
+		{"id":"6a02b49bb24e36a9","fromNode":"b5776071703ce332","fromSide":"right","toNode":"df474dee12c8013c","toSide":"left"},
+		{"id":"4047b3f23df2bce5","fromNode":"b5776071703ce332","fromSide":"left","toNode":"46a34fd5fb1cdf6c","toSide":"right"}
 	]
 }

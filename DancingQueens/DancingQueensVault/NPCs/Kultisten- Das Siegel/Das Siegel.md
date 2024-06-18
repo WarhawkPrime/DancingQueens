@@ -1,5 +1,5 @@
 - haben [[Orfeo callis]] verfolgt und irgendwie Beschworen?
 - ein Standort war in der Nähe von [[Aesley]]
 - bekannt als: das Siegel. 
-- [[Varvara]] hat sich bei denen mal beworben
+- [[Varavara]] hat sich bei denen mal beworben
 - haben was mit Chaos zutun

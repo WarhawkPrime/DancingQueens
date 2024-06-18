@@ -1,2 +1,3 @@
-Crewmitglied des Phantoms
-Mensch, dunkle Haare
+- Crewmitglied des Phantoms
+- Mensch, dunkle Haare
+- Alter: Mitte 40

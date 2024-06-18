@@ -8,4 +8,4 @@
 - scheint [[Vardan]] zu kennen
 - ist der Götting [[Mel]] abgeneigt.
 - vorheriger Captain war [[Drago]]
-- 
+- Alter: 36

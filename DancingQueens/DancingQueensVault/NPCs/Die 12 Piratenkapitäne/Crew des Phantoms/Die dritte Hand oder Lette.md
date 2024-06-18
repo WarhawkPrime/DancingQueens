@@ -1,0 +1,6 @@
+- Dritter Offizier des [[Phantom]]s
+- Hat sich als [[Nardo]] ausgegeben um die Party zu testen 
+- guter Freund von [[Drusar]]
+- Gut befreundet mit [[Drest]]
+- Hat den Spitzname Lette
+- Alter: 24
